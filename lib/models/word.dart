@@ -55,8 +55,17 @@ class Word {
         level: _parseLevel(map['level'] as String),
         exampleSentence: map['exampleSentence'] as String,
         exampleChinese: map['exampleChinese'] as String,
-        tags: (map['tags'] as String? ?? '').split(',').where((s) => s.isNotEmpty).toList(),
+        tags: _parseTags(map['tags']),
       );
+
+  // tags 在 JSON 资源里是数组，在 SQLite 里是逗号拼接的字符串，两种格式都要支持
+  static List<String> _parseTags(dynamic raw) {
+    if (raw is List) return raw.map((e) => e.toString()).toList();
+    if (raw is String) {
+      return raw.split(',').where((s) => s.isNotEmpty).toList();
+    }
+    return const [];
+  }
 
   static CEFRLevel _parseLevel(String value) {
     return CEFRLevel.values.firstWhere(
