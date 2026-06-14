@@ -1,0 +1,112 @@
+[
+  {
+    "id": "c1_001",
+    "german": "widerlegen",
+    "chinese": "反驳",
+    "level": "C1",
+    "exampleSentence": "Seine Argumente waren leicht zu widerlegen.",
+    "exampleChinese": "他的论点很容易被反驳。",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "id": "c1_002",
+    "german": "gleichermaßen",
+    "chinese": "同样地",
+    "level": "C1",
+    "exampleSentence": "Beide Seiten sind gleichermaßen verantwortlich.",
+    "exampleChinese": "双方负有同等责任。",
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "c1_003",
+    "german": "zurückhaltend",
+    "chinese": "保守的 / 矜持的",
+    "level": "C1",
+    "exampleSentence": "Er war in seinen Aussagen sehr zurückhaltend.",
+    "exampleChinese": "他在表态时非常谨慎。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "c1_004",
+    "german": "Anerkennung",
+    "chinese": "认可",
+    "level": "C1",
+    "exampleSentence": "Seine Arbeit fand allgemeine Anerkennung.",
+    "exampleChinese": "他的工作得到了普遍认可。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "c1_005",
+    "german": "eingehen",
+    "chinese": "详细处理 / 衰退",
+    "level": "C1",
+    "exampleSentence": "Lassen Sie mich kurz auf diesen Punkt eingehen.",
+    "exampleChinese": "请允许我简要谈谈这一点。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "c1_006",
+    "german": "unumgänglich",
+    "chinese": "不可避免的",
+    "level": "C1",
+    "exampleSentence": "Ein Wandel ist unumgänglich.",
+    "exampleChinese": "变革是不可避免的。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "c1_007",
+    "german": "missverstehen",
+    "chinese": "误解",
+    "level": "C1",
+    "exampleSentence": "Bitte missverstehen Sie mich nicht.",
+    "exampleChinese": "请不要误解我。",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "c1_008",
+    "german": "Durchsetzungsvermögen",
+    "chinese": "执行力 / 坚持能力",
+    "level": "C1",
+    "exampleSentence": "Führungskräfte brauchen Durchsetzungsvermögen.",
+    "exampleChinese": "领导者需要执行力。",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "id": "c1_009",
+    "german": "veranschaulichen",
+    "chinese": "说明 / 用图解释",
+    "level": "C1",
+    "exampleSentence": "Können Sie das an einem Beispiel veranschaulichen?",
+    "exampleChinese": "您能举例说明一下吗？",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "id": "c1_010",
+    "german": "Zweifel",
+    "chinese": "怀疑",
+    "level": "C1",
+    "exampleSentence": "Ich habe Zweifel an seiner Ehrlichkeit.",
+    "exampleChinese": "我对他的诚实有怀疑。",
+    "tags": [
+      "abstract"
+    ]
+  }
+]

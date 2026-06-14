@@ -1,0 +1,112 @@
+[
+  {
+    "id": "b1_001",
+    "german": "entscheiden",
+    "chinese": "决定",
+    "level": "B1",
+    "exampleSentence": "Ich muss mich schnell entscheiden.",
+    "exampleChinese": "我必须快速做出决定。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "b1_002",
+    "german": "verantwortlich",
+    "chinese": "负责的",
+    "level": "B1",
+    "exampleSentence": "Wer ist für das Projekt verantwortlich?",
+    "exampleChinese": "谁负责这个项目？",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "id": "b1_003",
+    "german": "Erfahrung",
+    "chinese": "经验",
+    "level": "B1",
+    "exampleSentence": "Er hat viel Erfahrung in diesem Bereich.",
+    "exampleChinese": "他在这个领域有很多经验。",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "id": "b1_004",
+    "german": "Möglichkeit",
+    "chinese": "可能性 / 机会",
+    "level": "B1",
+    "exampleSentence": "Es gibt mehrere Möglichkeiten.",
+    "exampleChinese": "有几种可能性。",
+    "tags": [
+      "noun"
+    ]
+  },
+  {
+    "id": "b1_005",
+    "german": "wahrscheinlich",
+    "chinese": "很可能的",
+    "level": "B1",
+    "exampleSentence": "Es wird morgen wahrscheinlich regnen.",
+    "exampleChinese": "明天很可能会下雨。",
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "b1_006",
+    "german": "beobachten",
+    "chinese": "观察",
+    "level": "B1",
+    "exampleSentence": "Die Polizei beobachtet den Verdächtigen.",
+    "exampleChinese": "警方正在观察嫌疑人。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "b1_007",
+    "german": "Zukunft",
+    "chinese": "未来",
+    "level": "B1",
+    "exampleSentence": "Ich mache mir Sorgen um die Zukunft.",
+    "exampleChinese": "我为未来担心。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "b1_008",
+    "german": "Vergangenheit",
+    "chinese": "过去",
+    "level": "B1",
+    "exampleSentence": "Man kann die Vergangenheit nicht ändern.",
+    "exampleChinese": "人无法改变过去。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "b1_009",
+    "german": "Beziehung",
+    "chinese": "关系",
+    "level": "B1",
+    "exampleSentence": "Ihre Beziehung ist sehr eng.",
+    "exampleChinese": "他们的关系很亲密。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "b1_010",
+    "german": "nachdenken",
+    "chinese": "思考",
+    "level": "B1",
+    "exampleSentence": "Ich muss darüber nachdenken.",
+    "exampleChinese": "我必须考虑一下。",
+    "tags": [
+      "verb"
+    ]
+  }
+]

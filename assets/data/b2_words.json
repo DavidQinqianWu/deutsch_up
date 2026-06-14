@@ -1,0 +1,112 @@
+[
+  {
+    "id": "b2_001",
+    "german": "durchführen",
+    "chinese": "执行 / 实施",
+    "level": "B2",
+    "exampleSentence": "Wir werden nächste Woche eine Umfrage durchführen.",
+    "exampleChinese": "我们下周将进行一项调查。",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "id": "b2_002",
+    "german": "voraussetzen",
+    "chinese": "以…为前提",
+    "level": "B2",
+    "exampleSentence": "Diese Arbeit setzt viel Geduld voraus.",
+    "exampleChinese": "这项工作需要很大的耐心。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "b2_003",
+    "german": "Zufriedenheit",
+    "chinese": "满意",
+    "level": "B2",
+    "exampleSentence": "Die Zufriedenheit der Kunden steht an erster Stelle.",
+    "exampleChinese": "客户满意度是第一位的。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "b2_004",
+    "german": "Herausforderung",
+    "chinese": "挑战",
+    "level": "B2",
+    "exampleSentence": "Das neue Projekt ist eine große Herausforderung.",
+    "exampleChinese": "新项目是一个巨大的挑战。",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "id": "b2_005",
+    "german": "zögern",
+    "chinese": "犹豫",
+    "level": "B2",
+    "exampleSentence": "Zögere nicht, mir zu schreiben.",
+    "exampleChinese": "不要犹豫，给我写信。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "b2_006",
+    "german": "überzeugen",
+    "chinese": "说服",
+    "level": "B2",
+    "exampleSentence": "Er konnte mich von seiner Idee überzeugen.",
+    "exampleChinese": "他能说服我相信他的想法。",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "b2_007",
+    "german": "unabhängig",
+    "chinese": "独立的",
+    "level": "B2",
+    "exampleSentence": "Sie ist finanziell unabhängig.",
+    "exampleChinese": "她在经济上独立。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "b2_008",
+    "german": "Bewusstsein",
+    "chinese": "意识",
+    "level": "B2",
+    "exampleSentence": "Das Umweltbewusstsein nimmt zu.",
+    "exampleChinese": "环境意识正在增强。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "b2_009",
+    "german": "nachhaltig",
+    "chinese": "可持续的",
+    "level": "B2",
+    "exampleSentence": "Wir brauchen nachhaltige Lösungen.",
+    "exampleChinese": "我们需要可持续的解决方案。",
+    "tags": [
+      "environment"
+    ]
+  },
+  {
+    "id": "b2_010",
+    "german": "Fähigkeit",
+    "chinese": "能力",
+    "level": "B2",
+    "exampleSentence": "Jeder hat seine eigenen Fähigkeiten.",
+    "exampleChinese": "每个人都有自己的长处。",
+    "tags": [
+      "abstract"
+    ]
+  }
+]

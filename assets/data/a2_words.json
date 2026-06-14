@@ -1,0 +1,112 @@
+[
+  {
+    "id": "a2_001",
+    "german": "verstehen",
+    "chinese": "理解",
+    "level": "A2",
+    "exampleSentence": "Ich verstehe die Frage nicht.",
+    "exampleChinese": "我不理解这个问题。",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a2_002",
+    "german": "erklären",
+    "chinese": "解释",
+    "level": "A2",
+    "exampleSentence": "Kannst du mir das erklären?",
+    "exampleChinese": "你能给我解释一下吗？",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a2_003",
+    "german": "wichtig",
+    "chinese": "重要的",
+    "level": "A2",
+    "exampleSentence": "Das ist sehr wichtig für mich.",
+    "exampleChinese": "这对我很重要。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a2_004",
+    "german": "müde",
+    "chinese": "累的",
+    "level": "A2",
+    "exampleSentence": "Ich bin sehr müde heute.",
+    "exampleChinese": "我今天很累。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a2_005",
+    "german": "Reise",
+    "chinese": "旅行",
+    "level": "A2",
+    "exampleSentence": "Die Reise nach Paris war schön.",
+    "exampleChinese": "去巴黎的旅行很愉快。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a2_006",
+    "german": "Bahnhof",
+    "chinese": "火车站",
+    "level": "A2",
+    "exampleSentence": "Der Bahnhof ist gegenüber dem Hotel.",
+    "exampleChinese": "火车站在酒店对面。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a2_007",
+    "german": "Wetter",
+    "chinese": "天气",
+    "level": "A2",
+    "exampleSentence": "Das Wetter ist heute sonnig.",
+    "exampleChinese": "今天天气晴朗。",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "a2_008",
+    "german": "regnen",
+    "chinese": "下雨",
+    "level": "A2",
+    "exampleSentence": "Es wird heute Nachmittag regnen.",
+    "exampleChinese": "今天下午会下雨。",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "a2_009",
+    "german": "Gesundheit",
+    "chinese": "健康",
+    "level": "A2",
+    "exampleSentence": "Gesundheit ist das Wichtigste im Leben.",
+    "exampleChinese": "健康是生活中最重要的。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a2_010",
+    "german": "Arzt",
+    "chinese": "医生",
+    "level": "A2",
+    "exampleSentence": "Ich habe morgen einen Termin beim Arzt.",
+    "exampleChinese": "我明天约了医生。",
+    "tags": [
+      "health"
+    ]
+  }
+]

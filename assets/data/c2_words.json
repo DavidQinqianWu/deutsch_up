@@ -1,0 +1,112 @@
+[
+  {
+    "id": "c2_001",
+    "german": "unhinterfragt",
+    "chinese": "未加质疑的",
+    "level": "C2",
+    "exampleSentence": "Viele Annahmen werden unhinterfragt akzeptiert.",
+    "exampleChinese": "许多假设被不加质疑地接受。",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "id": "c2_002",
+    "german": "Fingerspitzengefühl",
+    "chinese": "分寸感",
+    "level": "C2",
+    "exampleSentence": "Diese Situation erfordert viel Fingerspitzengefühl.",
+    "exampleChinese": "这种情况需要很强的分寸感。",
+    "tags": [
+      "idiom"
+    ]
+  },
+  {
+    "id": "c2_003",
+    "german": "sich etwas aneignen",
+    "chinese": "掌握 / 习得",
+    "level": "C2",
+    "exampleSentence": "Sie hat sich das Wissen selbst angeeignet.",
+    "exampleChinese": "她自己掌握了这些知识。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "c2_004",
+    "german": "weitgehend",
+    "chinese": "在很大程度上",
+    "level": "C2",
+    "exampleSentence": "Die Aussagen waren weitgehend korrekt.",
+    "exampleChinese": "这些说法在很大程度上是正确的。",
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "c2_005",
+    "german": "infrage kommen",
+    "chinese": "可以考虑 / 适用",
+    "level": "C2",
+    "exampleSentence": "Diese Lösung kommt nicht infrage.",
+    "exampleChinese": "这个方案不予考虑。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "c2_006",
+    "german": "Konsens",
+    "chinese": "共识",
+    "level": "C2",
+    "exampleSentence": "Wir müssen einen Konsens finden.",
+    "exampleChinese": "我们必须达成共识。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "c2_007",
+    "german": "untermauern",
+    "chinese": "支持 / 证实",
+    "level": "C2",
+    "exampleSentence": "Seine These wird durch Studien untermauert.",
+    "exampleChinese": "他的论点有研究支持。",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "id": "c2_008",
+    "german": "Resilienz",
+    "chinese": "韧性 / 复原力",
+    "level": "C2",
+    "exampleSentence": "Resilienz ist in Krisenzeiten besonders wichtig.",
+    "exampleChinese": "在危机时期，韧性尤为重要。",
+    "tags": [
+      "psychology"
+    ]
+  },
+  {
+    "id": "c2_009",
+    "german": "Augenmerk",
+    "chinese": "关注点",
+    "level": "C2",
+    "exampleSentence": "Das Augenmerk liegt auf Nachhaltigkeit.",
+    "exampleChinese": "关注点在于可持续性。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "c2_010",
+    "german": "gegebenenfalls",
+    "chinese": "必要时",
+    "level": "C2",
+    "exampleSentence": "Gegebenenfalls müssen wir den Plan ändern.",
+    "exampleChinese": "必要时我们必须修改计划。",
+    "tags": [
+      "adverb"
+    ]
+  }
+]

@@ -1,0 +1,2928 @@
+[
+  {
+    "id": "a1_001",
+    "german": "Hallo",
+    "chinese": "你好",
+    "level": "A1",
+    "exampleSentence": "Hallo, wie geht es dir?",
+    "exampleChinese": "你好，你好吗？",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "a1_002",
+    "german": "Guten Morgen",
+    "chinese": "早上好",
+    "level": "A1",
+    "exampleSentence": "Guten Morgen, Frau Müller!",
+    "exampleChinese": "早上好，穆勒女士！",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "a1_003",
+    "german": "Guten Tag",
+    "chinese": "日安",
+    "level": "A1",
+    "exampleSentence": "Guten Tag, kann ich Ihnen helfen?",
+    "exampleChinese": "日安，我能帮您吗？",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "a1_004",
+    "german": "Guten Abend",
+    "chinese": "晚上好",
+    "level": "A1",
+    "exampleSentence": "Guten Abend, Herr Schmidt!",
+    "exampleChinese": "晚上好，施密特先生！",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "a1_005",
+    "german": "Gute Nacht",
+    "chinese": "晚安",
+    "level": "A1",
+    "exampleSentence": "Gute Nacht und schlaf gut!",
+    "exampleChinese": "晚安，睡个好觉！",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "a1_006",
+    "german": "Auf Wiedersehen",
+    "chinese": "再见",
+    "level": "A1",
+    "exampleSentence": "Auf Wiedersehen und bis bald!",
+    "exampleChinese": "再见，回头见！",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "a1_007",
+    "german": "Tschüss",
+    "chinese": "再见",
+    "level": "A1",
+    "exampleSentence": "Tschüss, wir sehen uns morgen!",
+    "exampleChinese": "再见，明天见！",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "a1_008",
+    "german": "Danke",
+    "chinese": "谢谢",
+    "level": "A1",
+    "exampleSentence": "Danke für deine Hilfe.",
+    "exampleChinese": "谢谢你的帮助。",
+    "tags": [
+      "politeness"
+    ]
+  },
+  {
+    "id": "a1_009",
+    "german": "bitte",
+    "chinese": "请 / 不客气",
+    "level": "A1",
+    "exampleSentence": "Bitte schön!",
+    "exampleChinese": "不客气！",
+    "tags": [
+      "politeness"
+    ]
+  },
+  {
+    "id": "a1_010",
+    "german": "Entschuldigung",
+    "chinese": "对不起 / 打扰一下",
+    "level": "A1",
+    "exampleSentence": "Entschuldigung, wo ist der Bahnhof?",
+    "exampleChinese": "打扰一下，火车站在哪里？",
+    "tags": [
+      "politeness"
+    ]
+  },
+  {
+    "id": "a1_011",
+    "german": "Es tut mir leid",
+    "chinese": "对不起",
+    "level": "A1",
+    "exampleSentence": "Es tut mir leid, ich bin spät.",
+    "exampleChinese": "对不起，我迟到了。",
+    "tags": [
+      "politeness"
+    ]
+  },
+  {
+    "id": "a1_012",
+    "german": "Ja",
+    "chinese": "是",
+    "level": "A1",
+    "exampleSentence": "Ja, ich verstehe.",
+    "exampleChinese": "是的，我明白。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_013",
+    "german": "Nein",
+    "chinese": "不是",
+    "level": "A1",
+    "exampleSentence": "Nein, das stimmt nicht.",
+    "exampleChinese": "不，那不对。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_014",
+    "german": "vielleicht",
+    "chinese": "也许",
+    "level": "A1",
+    "exampleSentence": "Vielleicht regnet es morgen.",
+    "exampleChinese": "也许明天会下雨。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_015",
+    "german": "gern",
+    "chinese": "乐意",
+    "level": "A1",
+    "exampleSentence": "Ich helfe dir gern.",
+    "exampleChinese": "我很乐意帮你。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_016",
+    "german": "nicht",
+    "chinese": "不",
+    "level": "A1",
+    "exampleSentence": "Ich verstehe das nicht.",
+    "exampleChinese": "我不明白这个。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_017",
+    "german": "auch",
+    "chinese": "也",
+    "level": "A1",
+    "exampleSentence": "Ich komme auch mit.",
+    "exampleChinese": "我也一起去。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_018",
+    "german": "schon",
+    "chinese": "已经",
+    "level": "A1",
+    "exampleSentence": "Ich habe schon gegessen.",
+    "exampleChinese": "我已经吃过了。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_019",
+    "german": "noch",
+    "chinese": "还 / 仍然",
+    "level": "A1",
+    "exampleSentence": "Ich habe noch Zeit.",
+    "exampleChinese": "我还有时间。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_020",
+    "german": "jetzt",
+    "chinese": "现在",
+    "level": "A1",
+    "exampleSentence": "Ich gehe jetzt nach Hause.",
+    "exampleChinese": "我现在回家。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_021",
+    "german": "hier",
+    "chinese": "这里",
+    "level": "A1",
+    "exampleSentence": "Ich wohne hier.",
+    "exampleChinese": "我住在这里。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_022",
+    "german": "dort",
+    "chinese": "那里",
+    "level": "A1",
+    "exampleSentence": "Das Buch liegt dort.",
+    "exampleChinese": "书在那里。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_023",
+    "german": "da",
+    "chinese": "那里 / 因为",
+    "level": "A1",
+    "exampleSentence": "Da ist mein Haus.",
+    "exampleChinese": "那里是我的房子。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_024",
+    "german": "so",
+    "chinese": "如此 / 这样",
+    "level": "A1",
+    "exampleSentence": "So ist das Leben.",
+    "exampleChinese": "生活就是这样。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_025",
+    "german": "sehr",
+    "chinese": "很",
+    "level": "A1",
+    "exampleSentence": "Das ist sehr gut.",
+    "exampleChinese": "这很好。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_026",
+    "german": "viel",
+    "chinese": "很多",
+    "level": "A1",
+    "exampleSentence": "Ich habe viel Arbeit.",
+    "exampleChinese": "我有很多工作。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_027",
+    "german": "wenig",
+    "chinese": "很少",
+    "level": "A1",
+    "exampleSentence": "Ich trinke wenig Kaffee.",
+    "exampleChinese": "我很少喝咖啡。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_028",
+    "german": "alle",
+    "chinese": "所有",
+    "level": "A1",
+    "exampleSentence": "Alle sind gekommen.",
+    "exampleChinese": "所有人都来了。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_029",
+    "german": "jeder",
+    "chinese": "每个",
+    "level": "A1",
+    "exampleSentence": "Jeder Mensch ist anders.",
+    "exampleChinese": "每个人都是不同的。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_030",
+    "german": "nur",
+    "chinese": "只",
+    "level": "A1",
+    "exampleSentence": "Ich habe nur fünf Euro.",
+    "exampleChinese": "我只有五欧元。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_031",
+    "german": "wieder",
+    "chinese": "再",
+    "level": "A1",
+    "exampleSentence": "Ich komme wieder.",
+    "exampleChinese": "我会再来。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_032",
+    "german": "immer",
+    "chinese": "总是",
+    "level": "A1",
+    "exampleSentence": "Er ist immer pünktlich.",
+    "exampleChinese": "他总是很准时。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_033",
+    "german": "oft",
+    "chinese": "经常",
+    "level": "A1",
+    "exampleSentence": "Ich gehe oft spazieren.",
+    "exampleChinese": "我经常去散步。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_034",
+    "german": "manchmal",
+    "chinese": "有时",
+    "level": "A1",
+    "exampleSentence": "Manchmal regnet es.",
+    "exampleChinese": "有时会下雨。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_035",
+    "german": "nie",
+    "chinese": "从不",
+    "level": "A1",
+    "exampleSentence": "Ich rauche nie.",
+    "exampleChinese": "我从不抽烟。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_036",
+    "german": "Name",
+    "chinese": "名字",
+    "level": "A1",
+    "exampleSentence": "Mein Name ist Anna.",
+    "exampleChinese": "我的名字是安娜。",
+    "tags": [
+      "introduction"
+    ]
+  },
+  {
+    "id": "a1_037",
+    "german": "ich",
+    "chinese": "我",
+    "level": "A1",
+    "exampleSentence": "Ich bin Student.",
+    "exampleChinese": "我是学生。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "a1_038",
+    "german": "du",
+    "chinese": "你",
+    "level": "A1",
+    "exampleSentence": "Wie heißt du?",
+    "exampleChinese": "你叫什么名字？",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "a1_039",
+    "german": "er",
+    "chinese": "他",
+    "level": "A1",
+    "exampleSentence": "Er kommt aus China.",
+    "exampleChinese": "他来自中国。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "a1_040",
+    "german": "sie",
+    "chinese": "她 / 他们 / 您",
+    "level": "A1",
+    "exampleSentence": "Sie ist Lehrerin.",
+    "exampleChinese": "她是老师。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "a1_041",
+    "german": "es",
+    "chinese": "它",
+    "level": "A1",
+    "exampleSentence": "Es regnet draußen.",
+    "exampleChinese": "外面在下雨。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "a1_042",
+    "german": "wir",
+    "chinese": "我们",
+    "level": "A1",
+    "exampleSentence": "Wir gehen ins Kino.",
+    "exampleChinese": "我们去看电影。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "a1_043",
+    "german": "ihr",
+    "chinese": "你们",
+    "level": "A1",
+    "exampleSentence": "Habt ihr Hunger?",
+    "exampleChinese": "你们饿吗？",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "a1_044",
+    "german": "heißen",
+    "chinese": "叫做",
+    "level": "A1",
+    "exampleSentence": "Ich heiße Thomas.",
+    "exampleChinese": "我叫托马斯。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_045",
+    "german": "kommen",
+    "chinese": "来",
+    "level": "A1",
+    "exampleSentence": "Ich komme aus Deutschland.",
+    "exampleChinese": "我来自德国。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_046",
+    "german": "aus",
+    "chinese": "来自 / 从",
+    "level": "A1",
+    "exampleSentence": "Er kommt aus Berlin.",
+    "exampleChinese": "他来自柏林。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_047",
+    "german": "Deutschland",
+    "chinese": "德国",
+    "level": "A1",
+    "exampleSentence": "Deutschland liegt in Europa.",
+    "exampleChinese": "德国位于欧洲。",
+    "tags": [
+      "country"
+    ]
+  },
+  {
+    "id": "a1_048",
+    "german": "Österreich",
+    "chinese": "奥地利",
+    "level": "A1",
+    "exampleSentence": "Wien ist die Hauptstadt von Österreich.",
+    "exampleChinese": "维也纳是奥地利的首都。",
+    "tags": [
+      "country"
+    ]
+  },
+  {
+    "id": "a1_049",
+    "german": "Schweiz",
+    "chinese": "瑞士",
+    "level": "A1",
+    "exampleSentence": "Die Schweiz ist sehr schön.",
+    "exampleChinese": "瑞士很美。",
+    "tags": [
+      "country"
+    ]
+  },
+  {
+    "id": "a1_050",
+    "german": "Sprache",
+    "chinese": "语言",
+    "level": "A1",
+    "exampleSentence": "Deutsch ist eine schwere Sprache.",
+    "exampleChinese": "德语是一门难的语言。",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_051",
+    "german": "sprechen",
+    "chinese": "说",
+    "level": "A1",
+    "exampleSentence": "Ich spreche ein bisschen Deutsch.",
+    "exampleChinese": "我会说一点德语。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_052",
+    "german": "verstehen",
+    "chinese": "理解",
+    "level": "A1",
+    "exampleSentence": "Ich verstehe nicht.",
+    "exampleChinese": "我不明白。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_053",
+    "german": "können",
+    "chinese": "能够",
+    "level": "A1",
+    "exampleSentence": "Ich kann schwimmen.",
+    "exampleChinese": "我会游泳。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_054",
+    "german": "wissen",
+    "chinese": "知道",
+    "level": "A1",
+    "exampleSentence": "Ich weiß die Antwort.",
+    "exampleChinese": "我知道答案。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_055",
+    "german": "eins",
+    "chinese": "一",
+    "level": "A1",
+    "exampleSentence": "Ich habe nur eins.",
+    "exampleChinese": "我只有一个。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "a1_056",
+    "german": "zwei",
+    "chinese": "二",
+    "level": "A1",
+    "exampleSentence": "Zwei Kaffee, bitte.",
+    "exampleChinese": "请来两杯咖啡。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "a1_057",
+    "german": "drei",
+    "chinese": "三",
+    "level": "A1",
+    "exampleSentence": "Ich habe drei Geschwister.",
+    "exampleChinese": "我有三个兄弟姐妹。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "a1_058",
+    "german": "vier",
+    "chinese": "四",
+    "level": "A1",
+    "exampleSentence": "Es ist vier Uhr.",
+    "exampleChinese": "现在四点钟。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "a1_059",
+    "german": "fünf",
+    "chinese": "五",
+    "level": "A1",
+    "exampleSentence": "Ich bin fünf Minuten zu spät.",
+    "exampleChinese": "我迟到了五分钟。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "a1_060",
+    "german": "zehn",
+    "chinese": "十",
+    "level": "A1",
+    "exampleSentence": "Das kostet zehn Euro.",
+    "exampleChinese": "这个十欧元。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "a1_061",
+    "german": "hundert",
+    "chinese": "百",
+    "level": "A1",
+    "exampleSentence": "Ein Jahrhundert ist hundert Jahre.",
+    "exampleChinese": "一个世纪是一百年。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "a1_062",
+    "german": "Zeit",
+    "chinese": "时间",
+    "level": "A1",
+    "exampleSentence": "Ich habe keine Zeit.",
+    "exampleChinese": "我没有时间。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_063",
+    "german": "Uhr",
+    "chinese": "时钟 / 点钟",
+    "level": "A1",
+    "exampleSentence": "Es ist drei Uhr.",
+    "exampleChinese": "现在三点钟。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_064",
+    "german": "heute",
+    "chinese": "今天",
+    "level": "A1",
+    "exampleSentence": "Heute ist Montag.",
+    "exampleChinese": "今天是星期一。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_065",
+    "german": "morgen",
+    "chinese": "明天",
+    "level": "A1",
+    "exampleSentence": "Morgen gehe ich arbeiten.",
+    "exampleChinese": "明天我去上班。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_066",
+    "german": "gestern",
+    "chinese": "昨天",
+    "level": "A1",
+    "exampleSentence": "Gestern war ich krank.",
+    "exampleChinese": "昨天我生病了。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_067",
+    "german": "Woche",
+    "chinese": "星期",
+    "level": "A1",
+    "exampleSentence": "Eine Woche hat sieben Tage.",
+    "exampleChinese": "一个星期有七天。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_068",
+    "german": "Monat",
+    "chinese": "月",
+    "level": "A1",
+    "exampleSentence": "Ein Jahr hat zwölf Monate.",
+    "exampleChinese": "一年有十二个月。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_069",
+    "german": "Jahr",
+    "chinese": "年",
+    "level": "A1",
+    "exampleSentence": "Ich bin seit einem Jahr hier.",
+    "exampleChinese": "我来这里一年了。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_070",
+    "german": "Montag",
+    "chinese": "星期一",
+    "level": "A1",
+    "exampleSentence": "Am Montag beginnt die Schule.",
+    "exampleChinese": "星期一开学。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_071",
+    "german": "Dienstag",
+    "chinese": "星期二",
+    "level": "A1",
+    "exampleSentence": "Am Dienstag habe ich frei.",
+    "exampleChinese": "我星期二休息。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_072",
+    "german": "Mittwoch",
+    "chinese": "星期三",
+    "level": "A1",
+    "exampleSentence": "Der Mittwoch ist in der Mitte der Woche.",
+    "exampleChinese": "星期三在一周的中间。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_073",
+    "german": "Donnerstag",
+    "chinese": "星期四",
+    "level": "A1",
+    "exampleSentence": "Am Donnerstag gehe ich einkaufen.",
+    "exampleChinese": "我星期四去购物。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_074",
+    "german": "Freitag",
+    "chinese": "星期五",
+    "level": "A1",
+    "exampleSentence": "Am Freitag gehe ich ins Kino.",
+    "exampleChinese": "我星期五去看电影。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_075",
+    "german": "Samstag",
+    "chinese": "星期六",
+    "level": "A1",
+    "exampleSentence": "Am Samstag schlafe ich lange.",
+    "exampleChinese": "我星期六睡懒觉。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_076",
+    "german": "Sonntag",
+    "chinese": "星期日",
+    "level": "A1",
+    "exampleSentence": "Sonntag ist der letzte Tag der Woche.",
+    "exampleChinese": "星期日是一周的最后一天。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_077",
+    "german": "alt",
+    "chinese": "老的 / 旧的",
+    "level": "A1",
+    "exampleSentence": "Mein Auto ist sehr alt.",
+    "exampleChinese": "我的车很旧。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_078",
+    "german": "jung",
+    "chinese": "年轻的",
+    "level": "A1",
+    "exampleSentence": "Mein Bruder ist noch jung.",
+    "exampleChinese": "我弟弟还很年轻。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_079",
+    "german": "Mutter",
+    "chinese": "母亲",
+    "level": "A1",
+    "exampleSentence": "Meine Mutter kocht gut.",
+    "exampleChinese": "我妈妈做饭很好吃。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_080",
+    "german": "Vater",
+    "chinese": "父亲",
+    "level": "A1",
+    "exampleSentence": "Mein Vater arbeitet im Büro.",
+    "exampleChinese": "我爸爸在办公室工作。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_081",
+    "german": "Eltern",
+    "chinese": "父母",
+    "level": "A1",
+    "exampleSentence": "Meine Eltern wohnen in München.",
+    "exampleChinese": "我父母住在慕尼黑。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_082",
+    "german": "Schwester",
+    "chinese": "姐妹",
+    "level": "A1",
+    "exampleSentence": "Meine Schwester ist Ärztin.",
+    "exampleChinese": "我姐姐是医生。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_083",
+    "german": "Bruder",
+    "chinese": "兄弟",
+    "level": "A1",
+    "exampleSentence": "Mein Bruder spielt Fußball.",
+    "exampleChinese": "我哥哥踢足球。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_084",
+    "german": "Kind",
+    "chinese": "孩子",
+    "level": "A1",
+    "exampleSentence": "Das Kind lacht laut.",
+    "exampleChinese": "孩子大声笑。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_085",
+    "german": "Sohn",
+    "chinese": "儿子",
+    "level": "A1",
+    "exampleSentence": "Ihr Sohn geht in die Schule.",
+    "exampleChinese": "她的儿子上学。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_086",
+    "german": "Tochter",
+    "chinese": "女儿",
+    "level": "A1",
+    "exampleSentence": "Meine Tochter ist drei Jahre alt.",
+    "exampleChinese": "我的女儿三岁了。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_087",
+    "german": "Familie",
+    "chinese": "家庭",
+    "level": "A1",
+    "exampleSentence": "Meine Familie ist groß.",
+    "exampleChinese": "我的家庭很大。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_088",
+    "german": "Freund",
+    "chinese": "朋友",
+    "level": "A1",
+    "exampleSentence": "Er ist mein bester Freund.",
+    "exampleChinese": "他是我最好的朋友。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "a1_089",
+    "german": "Freundin",
+    "chinese": "女朋友 / 女性朋友",
+    "level": "A1",
+    "exampleSentence": "Meine Freundin kommt aus Österreich.",
+    "exampleChinese": "我的女朋友来自奥地利。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "a1_090",
+    "german": "Frau",
+    "chinese": "女士 / 妻子",
+    "level": "A1",
+    "exampleSentence": "Die Frau kauft Gemüse.",
+    "exampleChinese": "那位女士在买蔬菜。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "a1_091",
+    "german": "Mann",
+    "chinese": "男士 / 丈夫",
+    "level": "A1",
+    "exampleSentence": "Der Mann liest Zeitung.",
+    "exampleChinese": "那位男士在看报纸。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "a1_092",
+    "german": "Wasser",
+    "chinese": "水",
+    "level": "A1",
+    "exampleSentence": "Ich trinke gerne Wasser.",
+    "exampleChinese": "我喜欢喝水。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_093",
+    "german": "Brot",
+    "chinese": "面包",
+    "level": "A1",
+    "exampleSentence": "Das Brot ist sehr frisch.",
+    "exampleChinese": "这面包很新鲜。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_094",
+    "german": "Kaffee",
+    "chinese": "咖啡",
+    "level": "A1",
+    "exampleSentence": "Ich trinke jeden Morgen Kaffee.",
+    "exampleChinese": "我每天早上喝咖啡。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_095",
+    "german": "Tee",
+    "chinese": "茶",
+    "level": "A1",
+    "exampleSentence": "Möchtest du einen Tee?",
+    "exampleChinese": "你想喝杯茶吗？",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_096",
+    "german": "Milch",
+    "chinese": "牛奶",
+    "level": "A1",
+    "exampleSentence": "Die Milch ist im Kühlschrank.",
+    "exampleChinese": "牛奶在冰箱里。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_097",
+    "german": "Saft",
+    "chinese": "果汁",
+    "level": "A1",
+    "exampleSentence": "Orangensaft schmeckt gut.",
+    "exampleChinese": "橙汁很好喝。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_098",
+    "german": "Bier",
+    "chinese": "啤酒",
+    "level": "A1",
+    "exampleSentence": "In Deutschland trinkt man oft Bier.",
+    "exampleChinese": "在德国人们经常喝啤酒。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_099",
+    "german": "Wein",
+    "chinese": "葡萄酒",
+    "level": "A1",
+    "exampleSentence": "Ein Glas Wein, bitte.",
+    "exampleChinese": "请来一杯葡萄酒。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_100",
+    "german": "Apfel",
+    "chinese": "苹果",
+    "level": "A1",
+    "exampleSentence": "Ich esse jeden Tag einen Apfel.",
+    "exampleChinese": "我每天吃一个苹果。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_101",
+    "german": "Banane",
+    "chinese": "香蕉",
+    "level": "A1",
+    "exampleSentence": "Die Banane ist gelb.",
+    "exampleChinese": "香蕉是黄色的。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_102",
+    "german": "Gemüse",
+    "chinese": "蔬菜",
+    "level": "A1",
+    "exampleSentence": "Gemüse ist gesund.",
+    "exampleChinese": "蔬菜很健康。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_103",
+    "german": "Obst",
+    "chinese": "水果",
+    "level": "A1",
+    "exampleSentence": "Ich esse gerne Obst.",
+    "exampleChinese": "我喜欢吃水果。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_104",
+    "german": "Fleisch",
+    "chinese": "肉",
+    "level": "A1",
+    "exampleSentence": "Ich esse wenig Fleisch.",
+    "exampleChinese": "我很少吃肉。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_105",
+    "german": "Fisch",
+    "chinese": "鱼",
+    "level": "A1",
+    "exampleSentence": "Der Fisch ist frisch.",
+    "exampleChinese": "这鱼很新鲜。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_106",
+    "german": "Reis",
+    "chinese": "米饭",
+    "level": "A1",
+    "exampleSentence": "Reis ist sehr beliebt.",
+    "exampleChinese": "米饭很受欢迎。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_107",
+    "german": "Nudeln",
+    "chinese": "面条",
+    "level": "A1",
+    "exampleSentence": "Ich esse Nudeln mit Tomatensoße.",
+    "exampleChinese": "我吃番茄酱汁面条。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_108",
+    "german": "Kuchen",
+    "chinese": "蛋糕",
+    "level": "A1",
+    "exampleSentence": "Der Kuchen schmeckt sehr gut.",
+    "exampleChinese": "这蛋糕很好吃。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_109",
+    "german": "Eis",
+    "chinese": "冰淇淋",
+    "level": "A1",
+    "exampleSentence": "Im Sommer esse ich gerne Eis.",
+    "exampleChinese": "夏天我喜欢吃冰淇淋。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_110",
+    "german": "Butter",
+    "chinese": "黄油",
+    "level": "A1",
+    "exampleSentence": "Die Butter ist auf dem Tisch.",
+    "exampleChinese": "黄油在桌子上。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_111",
+    "german": "Käse",
+    "chinese": "奶酪",
+    "level": "A1",
+    "exampleSentence": "Käse schmeckt gut auf Brot.",
+    "exampleChinese": "奶酪涂在面包上很好吃。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_112",
+    "german": "Salz",
+    "chinese": "盐",
+    "level": "A1",
+    "exampleSentence": "Kannst du mir das Salz geben?",
+    "exampleChinese": "你能把盐递给我吗？",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_113",
+    "german": "Zucker",
+    "chinese": "糖",
+    "level": "A1",
+    "exampleSentence": "Ich nehme keinen Zucker im Kaffee.",
+    "exampleChinese": "我咖啡不加糖。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_114",
+    "german": "essen",
+    "chinese": "吃",
+    "level": "A1",
+    "exampleSentence": "Ich esse gerne Pizza.",
+    "exampleChinese": "我喜欢吃披萨。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_115",
+    "german": "trinken",
+    "chinese": "喝",
+    "level": "A1",
+    "exampleSentence": "Ich trinke viel Wasser.",
+    "exampleChinese": "我喝很多水。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_116",
+    "german": "Hunger",
+    "chinese": "饿",
+    "level": "A1",
+    "exampleSentence": "Ich habe Hunger.",
+    "exampleChinese": "我饿了。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_117",
+    "german": "Durst",
+    "chinese": "渴",
+    "level": "A1",
+    "exampleSentence": "Ich habe Durst.",
+    "exampleChinese": "我渴了。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_118",
+    "german": "Restaurant",
+    "chinese": "餐厅",
+    "level": "A1",
+    "exampleSentence": "Wir gehen heute ins Restaurant.",
+    "exampleChinese": "我们今天去餐厅。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_119",
+    "german": "Frühstück",
+    "chinese": "早餐",
+    "level": "A1",
+    "exampleSentence": "Das Frühstück ist fertig.",
+    "exampleChinese": "早餐准备好了。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_120",
+    "german": "Mittagessen",
+    "chinese": "午餐",
+    "level": "A1",
+    "exampleSentence": "Zum Mittagessen esse ich Suppe.",
+    "exampleChinese": "我午餐喝汤。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_121",
+    "german": "Abendessen",
+    "chinese": "晚餐",
+    "level": "A1",
+    "exampleSentence": "Das Abendessen ist um sieben Uhr.",
+    "exampleChinese": "晚餐在七点。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_122",
+    "german": "Haus",
+    "chinese": "房子",
+    "level": "A1",
+    "exampleSentence": "Mein Haus ist groß und hell.",
+    "exampleChinese": "我的房子又大又明亮。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_123",
+    "german": "Wohnung",
+    "chinese": "公寓",
+    "level": "A1",
+    "exampleSentence": "Meine Wohnung hat zwei Zimmer.",
+    "exampleChinese": "我的公寓有两个房间。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_124",
+    "german": "Zimmer",
+    "chinese": "房间",
+    "level": "A1",
+    "exampleSentence": "Das Zimmer ist sauber.",
+    "exampleChinese": "房间很干净。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_125",
+    "german": "Küche",
+    "chinese": "厨房",
+    "level": "A1",
+    "exampleSentence": "Die Küche ist klein.",
+    "exampleChinese": "厨房很小。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_126",
+    "german": "Bad",
+    "chinese": "浴室",
+    "level": "A1",
+    "exampleSentence": "Das Bad ist oben.",
+    "exampleChinese": "浴室在楼上。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_127",
+    "german": "Schlafzimmer",
+    "chinese": "卧室",
+    "level": "A1",
+    "exampleSentence": "Das Schlafzimmer ist ruhig.",
+    "exampleChinese": "卧室很安静。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_128",
+    "german": "Wohnzimmer",
+    "chinese": "客厅",
+    "level": "A1",
+    "exampleSentence": "Wir sitzen im Wohnzimmer.",
+    "exampleChinese": "我们坐在客厅里。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_129",
+    "german": "Tür",
+    "chinese": "门",
+    "level": "A1",
+    "exampleSentence": "Bitte schließe die Tür.",
+    "exampleChinese": "请关上门。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_130",
+    "german": "Fenster",
+    "chinese": "窗户",
+    "level": "A1",
+    "exampleSentence": "Das Fenster ist offen.",
+    "exampleChinese": "窗户开着。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_131",
+    "german": "Tisch",
+    "chinese": "桌子",
+    "level": "A1",
+    "exampleSentence": "Das Buch liegt auf dem Tisch.",
+    "exampleChinese": "书在桌子上。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_132",
+    "german": "Stuhl",
+    "chinese": "椅子",
+    "level": "A1",
+    "exampleSentence": "Der Stuhl ist bequem.",
+    "exampleChinese": "椅子很舒服。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_133",
+    "german": "Bett",
+    "chinese": "床",
+    "level": "A1",
+    "exampleSentence": "Das Bett ist gemütlich.",
+    "exampleChinese": "床很舒服。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_134",
+    "german": "Lampe",
+    "chinese": "灯",
+    "level": "A1",
+    "exampleSentence": "Die Lampe ist an.",
+    "exampleChinese": "灯开着。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_135",
+    "german": "Sofa",
+    "chinese": "沙发",
+    "level": "A1",
+    "exampleSentence": "Das Sofa ist neu.",
+    "exampleChinese": "沙发是新的。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_136",
+    "german": "Fernseher",
+    "chinese": "电视机",
+    "level": "A1",
+    "exampleSentence": "Wir sehen den Fernseher.",
+    "exampleChinese": "我们在看电视。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_137",
+    "german": "Computer",
+    "chinese": "电脑",
+    "level": "A1",
+    "exampleSentence": "Mein Computer ist schnell.",
+    "exampleChinese": "我的电脑很快。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_138",
+    "german": "Telefon",
+    "chinese": "电话",
+    "level": "A1",
+    "exampleSentence": "Das Telefon klingelt.",
+    "exampleChinese": "电话响了。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_139",
+    "german": "Stadt",
+    "chinese": "城市",
+    "level": "A1",
+    "exampleSentence": "Berlin ist eine große Stadt.",
+    "exampleChinese": "柏林是一座大城市。",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_140",
+    "german": "Land",
+    "chinese": "国家 / 农村",
+    "level": "A1",
+    "exampleSentence": "Deutschland ist mein Land.",
+    "exampleChinese": "德国是我的国家。",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_141",
+    "german": "Straße",
+    "chinese": "街道",
+    "level": "A1",
+    "exampleSentence": "Die Straße ist lang.",
+    "exampleChinese": "这条街很长。",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_142",
+    "german": "Platz",
+    "chinese": "广场",
+    "level": "A1",
+    "exampleSentence": "Der Marktplatz ist sehr schön.",
+    "exampleChinese": "集市广场很美。",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_143",
+    "german": "Adresse",
+    "chinese": "地址",
+    "level": "A1",
+    "exampleSentence": "Meine Adresse ist Hauptstraße 5.",
+    "exampleChinese": "我的地址是主街5号。",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_144",
+    "german": "Bahnhof",
+    "chinese": "火车站",
+    "level": "A1",
+    "exampleSentence": "Der Bahnhof ist in der Nähe.",
+    "exampleChinese": "火车站在附近。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_145",
+    "german": "Flughafen",
+    "chinese": "机场",
+    "level": "A1",
+    "exampleSentence": "Der Flughafen ist weit weg.",
+    "exampleChinese": "机场很远。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_146",
+    "german": "Bus",
+    "chinese": "公交车",
+    "level": "A1",
+    "exampleSentence": "Der Bus kommt in fünf Minuten.",
+    "exampleChinese": "公交车五分钟后到。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_147",
+    "german": "Zug",
+    "chinese": "火车",
+    "level": "A1",
+    "exampleSentence": "Der Zug fährt um neun Uhr.",
+    "exampleChinese": "火车九点开。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_148",
+    "german": "Auto",
+    "chinese": "汽车",
+    "level": "A1",
+    "exampleSentence": "Mein Auto ist blau.",
+    "exampleChinese": "我的车是蓝色的。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_149",
+    "german": "Fahrrad",
+    "chinese": "自行车",
+    "level": "A1",
+    "exampleSentence": "Ich fahre mit dem Fahrrad zur Arbeit.",
+    "exampleChinese": "我骑自行车上班。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_150",
+    "german": "zu Fuß",
+    "chinese": "步行",
+    "level": "A1",
+    "exampleSentence": "Ich gehe zu Fuß.",
+    "exampleChinese": "我步行去。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_151",
+    "german": "fahren",
+    "chinese": "开车 / 乘坐",
+    "level": "A1",
+    "exampleSentence": "Ich fahre mit dem Bus.",
+    "exampleChinese": "我坐公交车。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_152",
+    "german": "gehen",
+    "chinese": "走",
+    "level": "A1",
+    "exampleSentence": "Ich gehe zur Schule.",
+    "exampleChinese": "我走路去学校。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_153",
+    "german": "links",
+    "chinese": "左边",
+    "level": "A1",
+    "exampleSentence": "Biegen Sie links ab.",
+    "exampleChinese": "请左转。",
+    "tags": [
+      "direction"
+    ]
+  },
+  {
+    "id": "a1_154",
+    "german": "rechts",
+    "chinese": "右边",
+    "level": "A1",
+    "exampleSentence": "Gehen Sie nach rechts.",
+    "exampleChinese": "往右走。",
+    "tags": [
+      "direction"
+    ]
+  },
+  {
+    "id": "a1_155",
+    "german": "geradeaus",
+    "chinese": "直走",
+    "level": "A1",
+    "exampleSentence": "Gehen Sie geradeaus.",
+    "exampleChinese": "直走。",
+    "tags": [
+      "direction"
+    ]
+  },
+  {
+    "id": "a1_156",
+    "german": "kaufen",
+    "chinese": "买",
+    "level": "A1",
+    "exampleSentence": "Ich kaufe ein Brot.",
+    "exampleChinese": "我买一块面包。",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_157",
+    "german": "verkaufen",
+    "chinese": "卖",
+    "level": "A1",
+    "exampleSentence": "Sie verkauft Blumen.",
+    "exampleChinese": "她卖花。",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_158",
+    "german": "bezahlen",
+    "chinese": "付款",
+    "level": "A1",
+    "exampleSentence": "Ich bezahle bar.",
+    "exampleChinese": "我付现金。",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_159",
+    "german": "Preis",
+    "chinese": "价格",
+    "level": "A1",
+    "exampleSentence": "Der Preis ist niedrig.",
+    "exampleChinese": "价格很低。",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_160",
+    "german": "billig",
+    "chinese": "便宜的",
+    "level": "A1",
+    "exampleSentence": "Das Hemd ist billig.",
+    "exampleChinese": "这件衬衫很便宜。",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_161",
+    "german": "teuer",
+    "chinese": "贵的",
+    "level": "A1",
+    "exampleSentence": "Das Auto ist sehr teuer.",
+    "exampleChinese": "这辆车很贵。",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_162",
+    "german": "Geld",
+    "chinese": "钱",
+    "level": "A1",
+    "exampleSentence": "Ich habe kein Geld.",
+    "exampleChinese": "我没有钱。",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_163",
+    "german": "Euro",
+    "chinese": "欧元",
+    "level": "A1",
+    "exampleSentence": "Das kostet fünf Euro.",
+    "exampleChinese": "这个五欧元。",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_164",
+    "german": "Laden",
+    "chinese": "商店",
+    "level": "A1",
+    "exampleSentence": "Der Laden ist geschlossen.",
+    "exampleChinese": "商店关门了。",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_165",
+    "german": "Supermarkt",
+    "chinese": "超市",
+    "level": "A1",
+    "exampleSentence": "Ich gehe in den Supermarkt.",
+    "exampleChinese": "我去超市。",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_166",
+    "german": "Markt",
+    "chinese": "市场",
+    "level": "A1",
+    "exampleSentence": "Auf dem Markt gibt es Obst.",
+    "exampleChinese": "市场上有水果。",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_167",
+    "german": "Kopf",
+    "chinese": "头",
+    "level": "A1",
+    "exampleSentence": "Mein Kopf tut weh.",
+    "exampleChinese": "我头疼。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a1_168",
+    "german": "Auge",
+    "chinese": "眼睛",
+    "level": "A1",
+    "exampleSentence": "Ich habe blaue Augen.",
+    "exampleChinese": "我有蓝色的眼睛。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a1_169",
+    "german": "Hand",
+    "chinese": "手",
+    "level": "A1",
+    "exampleSentence": "Ich wasche mir die Hände.",
+    "exampleChinese": "我洗手。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a1_170",
+    "german": "Arm",
+    "chinese": "胳膊",
+    "level": "A1",
+    "exampleSentence": "Mein Arm tut weh.",
+    "exampleChinese": "我胳膊疼。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a1_171",
+    "german": "Bein",
+    "chinese": "腿",
+    "level": "A1",
+    "exampleSentence": "Mein Bein ist verletzt.",
+    "exampleChinese": "我的腿受伤了。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a1_172",
+    "german": "Bauch",
+    "chinese": "肚子",
+    "level": "A1",
+    "exampleSentence": "Ich habe Bauchschmerzen.",
+    "exampleChinese": "我肚子疼。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a1_173",
+    "german": "krank",
+    "chinese": "生病的",
+    "level": "A1",
+    "exampleSentence": "Ich bin krank.",
+    "exampleChinese": "我生病了。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a1_174",
+    "german": "gesund",
+    "chinese": "健康的",
+    "level": "A1",
+    "exampleSentence": "Sport ist gesund.",
+    "exampleChinese": "运动有益健康。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a1_175",
+    "german": "Arzt",
+    "chinese": "医生",
+    "level": "A1",
+    "exampleSentence": "Ich gehe zum Arzt.",
+    "exampleChinese": "我去看医生。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a1_176",
+    "german": "Apotheke",
+    "chinese": "药店",
+    "level": "A1",
+    "exampleSentence": "Die Apotheke ist um die Ecke.",
+    "exampleChinese": "药店在拐角处。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a1_177",
+    "german": "Schmerzen",
+    "chinese": "疼痛",
+    "level": "A1",
+    "exampleSentence": "Ich habe Schmerzen.",
+    "exampleChinese": "我疼。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a1_178",
+    "german": "Medizin",
+    "chinese": "药",
+    "level": "A1",
+    "exampleSentence": "Die Medizin hilft.",
+    "exampleChinese": "这药有效。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a1_179",
+    "german": "Wetter",
+    "chinese": "天气",
+    "level": "A1",
+    "exampleSentence": "Das Wetter ist schön.",
+    "exampleChinese": "天气很好。",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "a1_180",
+    "german": "Sonne",
+    "chinese": "太阳",
+    "level": "A1",
+    "exampleSentence": "Die Sonne scheint.",
+    "exampleChinese": "太阳在照耀。",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "a1_181",
+    "german": "Regen",
+    "chinese": "雨",
+    "level": "A1",
+    "exampleSentence": "Der Regen ist kalt.",
+    "exampleChinese": "雨很冷。",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "a1_182",
+    "german": "Schnee",
+    "chinese": "雪",
+    "level": "A1",
+    "exampleSentence": "Im Winter gibt es Schnee.",
+    "exampleChinese": "冬天会下雪。",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "a1_183",
+    "german": "Wind",
+    "chinese": "风",
+    "level": "A1",
+    "exampleSentence": "Der Wind ist stark.",
+    "exampleChinese": "风很大。",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "a1_184",
+    "german": "warm",
+    "chinese": "温暖的",
+    "level": "A1",
+    "exampleSentence": "Es ist heute warm.",
+    "exampleChinese": "今天很暖和。",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "a1_185",
+    "german": "kalt",
+    "chinese": "冷的",
+    "level": "A1",
+    "exampleSentence": "Im Winter ist es kalt.",
+    "exampleChinese": "冬天很冷。",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "a1_186",
+    "german": "heiß",
+    "chinese": "热的",
+    "level": "A1",
+    "exampleSentence": "Im Sommer ist es heiß.",
+    "exampleChinese": "夏天很热。",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "a1_187",
+    "german": "Frühling",
+    "chinese": "春天",
+    "level": "A1",
+    "exampleSentence": "Im Frühling blühen die Blumen.",
+    "exampleChinese": "春天花儿开放。",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "a1_188",
+    "german": "Sommer",
+    "chinese": "夏天",
+    "level": "A1",
+    "exampleSentence": "Im Sommer fahre ich ans Meer.",
+    "exampleChinese": "夏天我去海边。",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "a1_189",
+    "german": "Herbst",
+    "chinese": "秋天",
+    "level": "A1",
+    "exampleSentence": "Im Herbst fallen die Blätter.",
+    "exampleChinese": "秋天落叶。",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "a1_190",
+    "german": "Winter",
+    "chinese": "冬天",
+    "level": "A1",
+    "exampleSentence": "Im Winter schneit es oft.",
+    "exampleChinese": "冬天经常下雪。",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "a1_191",
+    "german": "rot",
+    "chinese": "红色",
+    "level": "A1",
+    "exampleSentence": "Das Auto ist rot.",
+    "exampleChinese": "这辆车是红色的。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "a1_192",
+    "german": "blau",
+    "chinese": "蓝色",
+    "level": "A1",
+    "exampleSentence": "Der Himmel ist blau.",
+    "exampleChinese": "天空是蓝色的。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "a1_193",
+    "german": "grün",
+    "chinese": "绿色",
+    "level": "A1",
+    "exampleSentence": "Das Gras ist grün.",
+    "exampleChinese": "草是绿色的。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "a1_194",
+    "german": "gelb",
+    "chinese": "黄色",
+    "level": "A1",
+    "exampleSentence": "Die Sonne ist gelb.",
+    "exampleChinese": "太阳是黄色的。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "a1_195",
+    "german": "schwarz",
+    "chinese": "黑色",
+    "level": "A1",
+    "exampleSentence": "Meine Tasche ist schwarz.",
+    "exampleChinese": "我的包是黑色的。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "a1_196",
+    "german": "weiß",
+    "chinese": "白色",
+    "level": "A1",
+    "exampleSentence": "Die Wand ist weiß.",
+    "exampleChinese": "墙是白色的。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "a1_197",
+    "german": "grau",
+    "chinese": "灰色",
+    "level": "A1",
+    "exampleSentence": "Der Himmel ist grau.",
+    "exampleChinese": "天空是灰色的。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "a1_198",
+    "german": "braun",
+    "chinese": "棕色",
+    "level": "A1",
+    "exampleSentence": "Der Tisch ist braun.",
+    "exampleChinese": "桌子是棕色的。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "a1_199",
+    "german": "sein",
+    "chinese": "是",
+    "level": "A1",
+    "exampleSentence": "Ich bin müde.",
+    "exampleChinese": "我累了。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_200",
+    "german": "haben",
+    "chinese": "有",
+    "level": "A1",
+    "exampleSentence": "Ich habe ein Buch.",
+    "exampleChinese": "我有一本书。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_201",
+    "german": "werden",
+    "chinese": "成为 / 将要",
+    "level": "A1",
+    "exampleSentence": "Ich werde Arzt.",
+    "exampleChinese": "我要成为医生。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_202",
+    "german": "machen",
+    "chinese": "做",
+    "level": "A1",
+    "exampleSentence": "Ich mache meine Hausaufgaben.",
+    "exampleChinese": "我做作业。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_203",
+    "german": "sehen",
+    "chinese": "看见",
+    "level": "A1",
+    "exampleSentence": "Ich sehe ein Haus.",
+    "exampleChinese": "我看见一座房子。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_204",
+    "german": "hören",
+    "chinese": "听见",
+    "level": "A1",
+    "exampleSentence": "Ich höre Musik.",
+    "exampleChinese": "我听音乐。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_205",
+    "german": "lesen",
+    "chinese": "读",
+    "level": "A1",
+    "exampleSentence": "Ich lese ein Buch.",
+    "exampleChinese": "我在读书。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_206",
+    "german": "schreiben",
+    "chinese": "写",
+    "level": "A1",
+    "exampleSentence": "Ich schreibe einen Brief.",
+    "exampleChinese": "我在写信。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_207",
+    "german": "wohnen",
+    "chinese": "居住",
+    "level": "A1",
+    "exampleSentence": "Ich wohne in Berlin.",
+    "exampleChinese": "我住在柏林。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_208",
+    "german": "arbeiten",
+    "chinese": "工作",
+    "level": "A1",
+    "exampleSentence": "Mein Vater arbeitet viel.",
+    "exampleChinese": "我爸爸工作很多。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_209",
+    "german": "lernen",
+    "chinese": "学习",
+    "level": "A1",
+    "exampleSentence": "Ich lerne Deutsch.",
+    "exampleChinese": "我学德语。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_210",
+    "german": "mögen",
+    "chinese": "喜欢",
+    "level": "A1",
+    "exampleSentence": "Ich mag Schokolade.",
+    "exampleChinese": "我喜欢巧克力。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_211",
+    "german": "wollen",
+    "chinese": "想要",
+    "level": "A1",
+    "exampleSentence": "Ich will schlafen.",
+    "exampleChinese": "我想睡觉。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_212",
+    "german": "müssen",
+    "chinese": "必须",
+    "level": "A1",
+    "exampleSentence": "Ich muss gehen.",
+    "exampleChinese": "我必须走了。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_213",
+    "german": "sollen",
+    "chinese": "应该",
+    "level": "A1",
+    "exampleSentence": "Du sollst mehr lernen.",
+    "exampleChinese": "你应该多学习。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_214",
+    "german": "brauchen",
+    "chinese": "需要",
+    "level": "A1",
+    "exampleSentence": "Ich brauche Hilfe.",
+    "exampleChinese": "我需要帮助。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_215",
+    "german": "geben",
+    "chinese": "给",
+    "level": "A1",
+    "exampleSentence": "Gib mir das Buch, bitte.",
+    "exampleChinese": "请把书给我。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_216",
+    "german": "nehmen",
+    "chinese": "拿",
+    "level": "A1",
+    "exampleSentence": "Ich nehme den Bus.",
+    "exampleChinese": "我坐公交车。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_217",
+    "german": "finden",
+    "chinese": "找到",
+    "level": "A1",
+    "exampleSentence": "Ich finde meinen Schlüssel nicht.",
+    "exampleChinese": "我找不到我的钥匙。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_218",
+    "german": "gut",
+    "chinese": "好的",
+    "level": "A1",
+    "exampleSentence": "Das Essen ist gut.",
+    "exampleChinese": "食物很好。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_219",
+    "german": "schlecht",
+    "chinese": "坏的",
+    "level": "A1",
+    "exampleSentence": "Das Wetter ist schlecht.",
+    "exampleChinese": "天气不好。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_220",
+    "german": "groß",
+    "chinese": "大的",
+    "level": "A1",
+    "exampleSentence": "Das Haus ist groß.",
+    "exampleChinese": "房子很大。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_221",
+    "german": "klein",
+    "chinese": "小的",
+    "level": "A1",
+    "exampleSentence": "Das Zimmer ist klein.",
+    "exampleChinese": "房间很小。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_222",
+    "german": "neu",
+    "chinese": "新的",
+    "level": "A1",
+    "exampleSentence": "Mein Auto ist neu.",
+    "exampleChinese": "我的车是新的。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_223",
+    "german": "schön",
+    "chinese": "漂亮的",
+    "level": "A1",
+    "exampleSentence": "Der Park ist sehr schön.",
+    "exampleChinese": "公园很漂亮。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_224",
+    "german": "hässlich",
+    "chinese": "丑的",
+    "level": "A1",
+    "exampleSentence": "Das Gebäude ist hässlich.",
+    "exampleChinese": "这栋楼很丑。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_225",
+    "german": "einfach",
+    "chinese": "简单的",
+    "level": "A1",
+    "exampleSentence": "Die Aufgabe ist einfach.",
+    "exampleChinese": "这道题很简单。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_226",
+    "german": "schwer",
+    "chinese": "难的 / 重的",
+    "level": "A1",
+    "exampleSentence": "Das Buch ist schwer.",
+    "exampleChinese": "这本书很重。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_227",
+    "german": "schnell",
+    "chinese": "快的",
+    "level": "A1",
+    "exampleSentence": "Der Zug ist schnell.",
+    "exampleChinese": "火车很快。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_228",
+    "german": "langsam",
+    "chinese": "慢的",
+    "level": "A1",
+    "exampleSentence": "Ich gehe langsam.",
+    "exampleChinese": "我走得慢。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_229",
+    "german": "früh",
+    "chinese": "早的",
+    "level": "A1",
+    "exampleSentence": "Ich stehe früh auf.",
+    "exampleChinese": "我起得早。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_230",
+    "german": "spät",
+    "chinese": "晚的",
+    "level": "A1",
+    "exampleSentence": "Es ist schon spät.",
+    "exampleChinese": "已经很晚了。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_231",
+    "german": "richtig",
+    "chinese": "正确的",
+    "level": "A1",
+    "exampleSentence": "Das ist richtig.",
+    "exampleChinese": "这是正确的。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_232",
+    "german": "falsch",
+    "chinese": "错误的",
+    "level": "A1",
+    "exampleSentence": "Das ist falsch.",
+    "exampleChinese": "这是错误的。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_233",
+    "german": "gerne",
+    "chinese": "乐意",
+    "level": "A1",
+    "exampleSentence": "Ich fahre gerne Fahrrad.",
+    "exampleChinese": "我喜欢骑自行车。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_234",
+    "german": "müde",
+    "chinese": "累的",
+    "level": "A1",
+    "exampleSentence": "Ich bin müde.",
+    "exampleChinese": "我累了。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_235",
+    "german": "krank",
+    "chinese": "生病的",
+    "level": "A1",
+    "exampleSentence": "Meine Schwester ist krank.",
+    "exampleChinese": "我妹妹生病了。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_236",
+    "german": "gesund",
+    "chinese": "健康的",
+    "level": "A1",
+    "exampleSentence": "Obst ist gesund.",
+    "exampleChinese": "水果很健康。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_237",
+    "german": "sauber",
+    "chinese": "干净的",
+    "level": "A1",
+    "exampleSentence": "Das Zimmer ist sauber.",
+    "exampleChinese": "房间很干净。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_238",
+    "german": "schmutzig",
+    "chinese": "脏的",
+    "level": "A1",
+    "exampleSentence": "Die Schuhe sind schmutzig.",
+    "exampleChinese": "鞋子很脏。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_239",
+    "german": "offen",
+    "chinese": "开着的",
+    "level": "A1",
+    "exampleSentence": "Die Tür ist offen.",
+    "exampleChinese": "门开着。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_240",
+    "german": "geschlossen",
+    "chinese": "关着的",
+    "level": "A1",
+    "exampleSentence": "Der Laden ist geschlossen.",
+    "exampleChinese": "商店关门了。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_241",
+    "german": "frei",
+    "chinese": "空闲的 / 免费的",
+    "level": "A1",
+    "exampleSentence": "Ich habe morgen frei.",
+    "exampleChinese": "我明天有空。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_242",
+    "german": "besetzt",
+    "chinese": "忙碌的 / 占用的",
+    "level": "A1",
+    "exampleSentence": "Das Zimmer ist besetzt.",
+    "exampleChinese": "房间有人。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_243",
+    "german": "wer",
+    "chinese": "谁",
+    "level": "A1",
+    "exampleSentence": "Wer ist das?",
+    "exampleChinese": "那是谁？",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "a1_244",
+    "german": "was",
+    "chinese": "什么",
+    "level": "A1",
+    "exampleSentence": "Was machst du?",
+    "exampleChinese": "你在做什么？",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "a1_245",
+    "german": "wo",
+    "chinese": "哪里",
+    "level": "A1",
+    "exampleSentence": "Wo wohnst du?",
+    "exampleChinese": "你住在哪里？",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "a1_246",
+    "german": "wann",
+    "chinese": "什么时候",
+    "level": "A1",
+    "exampleSentence": "Wann kommst du?",
+    "exampleChinese": "你什么时候来？",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "a1_247",
+    "german": "warum",
+    "chinese": "为什么",
+    "level": "A1",
+    "exampleSentence": "Warum lernst du Deutsch?",
+    "exampleChinese": "你为什么学德语？",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "a1_248",
+    "german": "wie",
+    "chinese": "怎样",
+    "level": "A1",
+    "exampleSentence": "Wie geht es dir?",
+    "exampleChinese": "你好吗？",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "a1_249",
+    "german": "wie viel",
+    "chinese": "多少",
+    "level": "A1",
+    "exampleSentence": "Wie viel kostet das?",
+    "exampleChinese": "这个多少钱？",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "a1_250",
+    "german": "wie viele",
+    "chinese": "多少（可数）",
+    "level": "A1",
+    "exampleSentence": "Wie viele Äpfel möchtest du?",
+    "exampleChinese": "你想要几个苹果？",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "a1_251",
+    "german": "welcher",
+    "chinese": "哪个",
+    "level": "A1",
+    "exampleSentence": "Welcher Tag ist heute?",
+    "exampleChinese": "今天星期几？",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "a1_252",
+    "german": "in",
+    "chinese": "在…里",
+    "level": "A1",
+    "exampleSentence": "Das Buch ist in der Tasche.",
+    "exampleChinese": "书在包里。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_253",
+    "german": "an",
+    "chinese": "在…旁",
+    "level": "A1",
+    "exampleSentence": "Das Bild hängt an der Wand.",
+    "exampleChinese": "画挂在墙上。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_254",
+    "german": "auf",
+    "chinese": "在…上",
+    "level": "A1",
+    "exampleSentence": "Das Buch liegt auf dem Tisch.",
+    "exampleChinese": "书在桌子上。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_255",
+    "german": "unter",
+    "chinese": "在…下",
+    "level": "A1",
+    "exampleSentence": "Die Katze ist unter dem Tisch.",
+    "exampleChinese": "猫在桌子下面。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_256",
+    "german": "über",
+    "chinese": "在…上方",
+    "level": "A1",
+    "exampleSentence": "Die Lampe ist über dem Tisch.",
+    "exampleChinese": "灯在桌子上方。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_257",
+    "german": "neben",
+    "chinese": "在…旁边",
+    "level": "A1",
+    "exampleSentence": "Der Stuhl steht neben dem Tisch.",
+    "exampleChinese": "椅子在桌子旁边。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_258",
+    "german": "zwischen",
+    "chinese": "在…之间",
+    "level": "A1",
+    "exampleSentence": "Das Haus steht zwischen zwei Bäumen.",
+    "exampleChinese": "房子在两棵树之间。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_259",
+    "german": "vor",
+    "chinese": "在…前面",
+    "level": "A1",
+    "exampleSentence": "Das Auto steht vor dem Haus.",
+    "exampleChinese": "车在房子前面。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_260",
+    "german": "hinter",
+    "chinese": "在…后面",
+    "level": "A1",
+    "exampleSentence": "Der Garten ist hinter dem Haus.",
+    "exampleChinese": "花园在房子后面。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_261",
+    "german": "mit",
+    "chinese": "和…一起 / 用",
+    "level": "A1",
+    "exampleSentence": "Ich gehe mit dir.",
+    "exampleChinese": "我和你一起去。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_262",
+    "german": "ohne",
+    "chinese": "没有",
+    "level": "A1",
+    "exampleSentence": "Ich trinke Kaffee ohne Zucker.",
+    "exampleChinese": "我喝咖啡不加糖。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_263",
+    "german": "für",
+    "chinese": "为了",
+    "level": "A1",
+    "exampleSentence": "Das Geschenk ist für dich.",
+    "exampleChinese": "这个礼物是给你的。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_264",
+    "german": "zu",
+    "chinese": "去 / 到",
+    "level": "A1",
+    "exampleSentence": "Ich gehe zur Schule.",
+    "exampleChinese": "我去学校。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_265",
+    "german": "von",
+    "chinese": "从 / 的",
+    "level": "A1",
+    "exampleSentence": "Das Buch ist von meinem Bruder.",
+    "exampleChinese": "这本书是我哥哥的。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_266",
+    "german": "nach",
+    "chinese": "在…之后 / 去",
+    "level": "A1",
+    "exampleSentence": "Nach dem Essen gehe ich spazieren.",
+    "exampleChinese": "饭后我去散步。",
+    "tags": [
+      "preposition"
+    ]
+  }
+]
