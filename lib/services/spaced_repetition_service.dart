@@ -77,6 +77,7 @@ class SpacedRepetitionService {
       totalDwellMs: progress.totalDwellMs + millisecondsOnCard,
       lastDwellMs: millisecondsOnCard,
       reviewCount: progress.reviewCount + 1,
+      familiarity: familiarity,
     );
   }
 }

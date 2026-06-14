@@ -38,7 +38,7 @@ class DatabaseService {
 
     return openDatabase(
       path,
-      version: 5,
+      version: 6,
       onCreate: (db, version) async {
         await _createTables(db);
         await _seedWords(db);
@@ -63,6 +63,21 @@ class DatabaseService {
           // A1 词库补全到歌德学院官方词表，清空 words 表并重新导入
           await db.delete('words');
           await _seedWords(db);
+        }
+        if (oldVersion < 6) {
+          // 新增「熟悉度」列，并按上次停留时长回填旧数据
+          await db.execute(
+            'ALTER TABLE user_progress ADD COLUMN familiarity INTEGER',
+          );
+          await db.execute('''
+            UPDATE user_progress SET familiarity = CASE
+              WHEN lastDwellMs < 4000 THEN 4
+              WHEN lastDwellMs < 8000 THEN 3
+              WHEN lastDwellMs < 12000 THEN 2
+              WHEN lastDwellMs < 16000 THEN 1
+              ELSE 0 END
+            WHERE reviewCount > 0
+          ''');
         }
       },
     );
@@ -91,7 +106,8 @@ class DatabaseService {
         nextReviewAt INTEGER,
         totalDwellMs INTEGER NOT NULL,
         lastDwellMs INTEGER NOT NULL,
-        reviewCount INTEGER NOT NULL
+        reviewCount INTEGER NOT NULL,
+        familiarity INTEGER
       )
     ''');
   }

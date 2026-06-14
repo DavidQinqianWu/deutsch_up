@@ -81,6 +81,7 @@ class UserProgress {
   final int totalDwellMs;
   final int lastDwellMs;
   final int reviewCount;
+  final Familiarity? familiarity;
 
   const UserProgress({
     required this.wordId,
@@ -92,6 +93,7 @@ class UserProgress {
     this.totalDwellMs = 0,
     this.lastDwellMs = 0,
     this.reviewCount = 0,
+    this.familiarity,
   });
 
   bool get isDue => nextReviewAt == null || nextReviewAt!.isBefore(DateTime.now());
@@ -106,6 +108,7 @@ class UserProgress {
         'totalDwellMs': totalDwellMs,
         'lastDwellMs': lastDwellMs,
         'reviewCount': reviewCount,
+        'familiarity': familiarity?.index,
       };
 
   factory UserProgress.fromMap(Map<String, dynamic> map) => UserProgress(
@@ -122,6 +125,9 @@ class UserProgress {
         totalDwellMs: map['totalDwellMs'] as int? ?? 0,
         lastDwellMs: map['lastDwellMs'] as int? ?? 0,
         reviewCount: map['reviewCount'] as int? ?? 0,
+        familiarity: map['familiarity'] != null
+            ? Familiarity.values[map['familiarity'] as int]
+            : null,
       );
 
   UserProgress copyWith({
@@ -133,6 +139,7 @@ class UserProgress {
     int? totalDwellMs,
     int? lastDwellMs,
     int? reviewCount,
+    Familiarity? familiarity,
   }) =>
       UserProgress(
         wordId: wordId,
@@ -144,5 +151,6 @@ class UserProgress {
         totalDwellMs: totalDwellMs ?? this.totalDwellMs,
         lastDwellMs: lastDwellMs ?? this.lastDwellMs,
         reviewCount: reviewCount ?? this.reviewCount,
+        familiarity: familiarity ?? this.familiarity,
       );
 }

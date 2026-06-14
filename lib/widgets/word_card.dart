@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 import '../models/user_progress.dart';
 import '../models/word.dart';
-import '../services/spaced_repetition_service.dart';
 
 class WordCard extends StatelessWidget {
   final Word word;
@@ -39,26 +38,15 @@ class WordCard extends StatelessWidget {
     }
   }
 
-  Familiarity get _familiarity {
-    if (progress == null) return Familiarity.unknown;
-    return SpacedRepetitionService.rateTimeOnCard(progress!.lastDwellMs);
-  }
+  // 直接读取数据行上记录的熟悉度；为空说明还没评定过（新词）
+  Familiarity? get _familiarity => progress?.familiarity;
 
-  String get _familiarityText {
-    if (progress == null) return '新词';
-    return _familiarity.label;
-  }
+  String get _familiarityText => _familiarity?.label ?? '新词';
 
-  Color get _backgroundColor {
-    // 新词显示白色背景
-    if (progress == null) return Colors.white;
-    return _familiarity.backgroundColor;
-  }
+  // 新词显示白色背景
+  Color get _backgroundColor => _familiarity?.backgroundColor ?? Colors.white;
 
-  Color get _foregroundColor {
-    if (progress == null) return Colors.grey;
-    return _familiarity.foregroundColor;
-  }
+  Color get _foregroundColor => _familiarity?.foregroundColor ?? Colors.grey;
 
   @override
   Widget build(BuildContext context) {

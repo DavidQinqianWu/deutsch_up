@@ -17,6 +17,8 @@ class LearningProvider extends ChangeNotifier {
 
   List<Word> _words = [];
   final Map<String, UserProgress> _progressMap = {};
+  // 本轮复习中已评定过熟悉度的单词，来回翻动不再重复评分
+  final Set<String> _scoredThisCycle = {};
   int _currentIndex = 0;
   CEFRLevel? _selectedLevel;
   bool _isLoading = true;
@@ -55,6 +57,7 @@ class LearningProvider extends ChangeNotifier {
     _selectedLevel = level;
     _words = await _database.getDueWords(level: level, limit: 100);
     _progressMap.clear();
+    _scoredThisCycle.clear();
     _progressMap.addAll(await _database.getAllProgress());
     _currentIndex = 0;
     _isLoading = false;
@@ -101,6 +104,11 @@ class LearningProvider extends ChangeNotifier {
 
     final dwellMs = DateTime.now().difference(_cardVisibleSince!).inMilliseconds;
     _stopCardTimer();
+    _cardVisibleSince = null;
+
+    // 一个单词在本轮复习里只评定一次，之后来回翻动不改变熟悉度
+    if (_scoredThisCycle.contains(word.id)) return;
+    _scoredThisCycle.add(word.id);
 
     final existing = _progressMap[word.id] ?? UserProgress(wordId: word.id);
     final updated = SpacedRepetitionService.review(existing, dwellMs);
