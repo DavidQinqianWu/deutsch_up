@@ -39,7 +39,7 @@ The timing loop is in `LearningProvider`: `_startCardTimer` ticks every 100ms up
 
 `DatabaseService` (`lib/services/database_service.dart`) is a singleton over SQLite. It auto-selects the FFI backend (`sqflite_common_ffi`) on desktop (Windows/Linux/macOS) and stock `sqflite` on mobile. Two tables: `words` (seeded content) and `user_progress`. `getDueWords` is the key query — it LEFT JOINs progress and returns words whose `nextReviewAt` is null or past, ordered by due time.
 
-**Word content is seeded from `assets/data/all_words.json` only** (via `_loadWordsFromAssets`). The per-level files (`a1_words.json`…`c2_words.json`) exist but are NOT loaded by the app; `all_words.json` is the source of truth (currently ~316 words, mostly A1). To change the word set, edit `all_words.json` and re-seed.
+**Word content is seeded from `assets/data/all_words.json` only** (via `_loadWordsFromAssets`). The per-level files (`a1_words.json`…`c2_words.json`) exist but are NOT loaded by the app; `all_words.json` is the source of truth (currently ~776 words; the A1 set covers the official Goethe-Institut A1 / Start Deutsch 1 Wortliste). To change the word set, edit `all_words.json` and re-seed.
 
 **Schema migrations**: bump `version` in `_initDatabase` and add an `onUpgrade` branch. Word-data changes are applied by `DELETE FROM words` + `_seedWords` inside `onUpgrade` (see the v3/v4 branches) — there's no incremental word migration. The DB file (`deutsch_up.db`) is NOT reset by hot reload, so adding words during development requires bumping the version to trigger re-seed.
 

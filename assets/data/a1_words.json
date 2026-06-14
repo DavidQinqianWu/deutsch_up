@@ -2924,5 +2924,5065 @@
     "tags": [
       "preposition"
     ]
+  },
+  {
+    "id": "a1_267",
+    "german": "Abend",
+    "chinese": "晚上",
+    "level": "A1",
+    "exampleSentence": "Am Abend sehe ich oft fern.",
+    "exampleChinese": "晚上我常看电视。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_268",
+    "german": "Nacht",
+    "chinese": "夜晚",
+    "level": "A1",
+    "exampleSentence": "Ich habe die ganze Nacht geschlafen.",
+    "exampleChinese": "我睡了一整夜。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_269",
+    "german": "Januar",
+    "chinese": "一月",
+    "level": "A1",
+    "exampleSentence": "Im Januar ist es sehr kalt.",
+    "exampleChinese": "一月很冷。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_270",
+    "german": "Februar",
+    "chinese": "二月",
+    "level": "A1",
+    "exampleSentence": "Der Februar ist ein kurzer Monat.",
+    "exampleChinese": "二月是个短月份。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_271",
+    "german": "März",
+    "chinese": "三月",
+    "level": "A1",
+    "exampleSentence": "Im März wird es langsam wärmer.",
+    "exampleChinese": "三月天气慢慢变暖。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_272",
+    "german": "April",
+    "chinese": "四月",
+    "level": "A1",
+    "exampleSentence": "Im April regnet es oft.",
+    "exampleChinese": "四月常下雨。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_273",
+    "german": "Mai",
+    "chinese": "五月",
+    "level": "A1",
+    "exampleSentence": "Im Mai blühen die Blumen.",
+    "exampleChinese": "五月花儿盛开。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_274",
+    "german": "Juni",
+    "chinese": "六月",
+    "level": "A1",
+    "exampleSentence": "Im Juni beginnt der Sommer.",
+    "exampleChinese": "六月夏天开始了。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_275",
+    "german": "Juli",
+    "chinese": "七月",
+    "level": "A1",
+    "exampleSentence": "Im Juli haben die Kinder Ferien.",
+    "exampleChinese": "七月孩子们放假。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_276",
+    "german": "August",
+    "chinese": "八月",
+    "level": "A1",
+    "exampleSentence": "Im August ist es oft sehr heiß.",
+    "exampleChinese": "八月常常很热。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_277",
+    "german": "September",
+    "chinese": "九月",
+    "level": "A1",
+    "exampleSentence": "Im September beginnt die Schule.",
+    "exampleChinese": "九月开学。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_278",
+    "german": "Oktober",
+    "chinese": "十月",
+    "level": "A1",
+    "exampleSentence": "Im Oktober werden die Blätter bunt.",
+    "exampleChinese": "十月树叶变得五彩缤纷。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_279",
+    "german": "November",
+    "chinese": "十一月",
+    "level": "A1",
+    "exampleSentence": "Im November ist es oft neblig.",
+    "exampleChinese": "十一月常常有雾。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_280",
+    "german": "Dezember",
+    "chinese": "十二月",
+    "level": "A1",
+    "exampleSentence": "Im Dezember feiern wir Weihnachten.",
+    "exampleChinese": "十二月我们过圣诞节。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_281",
+    "german": "Cent",
+    "chinese": "分（货币）",
+    "level": "A1",
+    "exampleSentence": "Ein Euro sind hundert Cent.",
+    "exampleChinese": "一欧元是一百分。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "a1_282",
+    "german": "Meter",
+    "chinese": "米",
+    "level": "A1",
+    "exampleSentence": "Der Schrank ist zwei Meter hoch.",
+    "exampleChinese": "这个柜子两米高。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "a1_283",
+    "german": "Kilometer",
+    "chinese": "公里",
+    "level": "A1",
+    "exampleSentence": "Bis Berlin sind es zweihundert Kilometer.",
+    "exampleChinese": "到柏林有两百公里。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "a1_284",
+    "german": "deutsch",
+    "chinese": "德国的；德语的",
+    "level": "A1",
+    "exampleSentence": "Sprichst du Deutsch?",
+    "exampleChinese": "你说德语吗？",
+    "tags": [
+      "country"
+    ]
+  },
+  {
+    "id": "a1_285",
+    "german": "Europa",
+    "chinese": "欧洲",
+    "level": "A1",
+    "exampleSentence": "Ich reise gern durch Europa.",
+    "exampleChinese": "我喜欢游历欧洲。",
+    "tags": [
+      "country"
+    ]
+  },
+  {
+    "id": "a1_286",
+    "german": "Europäer",
+    "chinese": "欧洲人",
+    "level": "A1",
+    "exampleSentence": "Er ist Europäer.",
+    "exampleChinese": "他是欧洲人。",
+    "tags": [
+      "country"
+    ]
+  },
+  {
+    "id": "a1_287",
+    "german": "europäisch",
+    "chinese": "欧洲的",
+    "level": "A1",
+    "exampleSentence": "Frankreich ist ein europäisches Land.",
+    "exampleChinese": "法国是一个欧洲国家。",
+    "tags": [
+      "country"
+    ]
+  },
+  {
+    "id": "a1_288",
+    "german": "Norden",
+    "chinese": "北方",
+    "level": "A1",
+    "exampleSentence": "Hamburg liegt im Norden von Deutschland.",
+    "exampleChinese": "汉堡在德国北部。",
+    "tags": [
+      "direction"
+    ]
+  },
+  {
+    "id": "a1_289",
+    "german": "Süden",
+    "chinese": "南方",
+    "level": "A1",
+    "exampleSentence": "Im Süden ist es meistens wärmer.",
+    "exampleChinese": "南方通常更暖和。",
+    "tags": [
+      "direction"
+    ]
+  },
+  {
+    "id": "a1_290",
+    "german": "Westen",
+    "chinese": "西方",
+    "level": "A1",
+    "exampleSentence": "Die Sonne geht im Westen unter.",
+    "exampleChinese": "太阳在西边落下。",
+    "tags": [
+      "direction"
+    ]
+  },
+  {
+    "id": "a1_291",
+    "german": "Osten",
+    "chinese": "东方",
+    "level": "A1",
+    "exampleSentence": "Die Sonne geht im Osten auf.",
+    "exampleChinese": "太阳在东边升起。",
+    "tags": [
+      "direction"
+    ]
+  },
+  {
+    "id": "a1_292",
+    "german": "ab",
+    "chinese": "从……起",
+    "level": "A1",
+    "exampleSentence": "Ab morgen muss ich arbeiten.",
+    "exampleChinese": "从明天起我得工作。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_293",
+    "german": "aber",
+    "chinese": "但是",
+    "level": "A1",
+    "exampleSentence": "Ich bin oft im Büro, aber nur für wenige Stunden.",
+    "exampleChinese": "我经常在办公室，但只待几个小时。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_294",
+    "german": "abfahren",
+    "chinese": "出发",
+    "level": "A1",
+    "exampleSentence": "Wir fahren um zwölf Uhr ab.",
+    "exampleChinese": "我们十二点出发。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_295",
+    "german": "abgeben",
+    "chinese": "上交",
+    "level": "A1",
+    "exampleSentence": "Ich muss meine Schlüssel abgeben.",
+    "exampleChinese": "我得把钥匙交回去。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_296",
+    "german": "abholen",
+    "chinese": "接；取",
+    "level": "A1",
+    "exampleSentence": "Wann kann ich den Schrank bei dir abholen?",
+    "exampleChinese": "我什么时候能去你那儿取柜子？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_297",
+    "german": "Absender",
+    "chinese": "寄件人",
+    "level": "A1",
+    "exampleSentence": "Da ist ein Brief für dich ohne Absender.",
+    "exampleChinese": "有一封给你的信，没有寄件人。",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_298",
+    "german": "Achtung",
+    "chinese": "注意；当心",
+    "level": "A1",
+    "exampleSentence": "Achtung! Das dürfen Sie nicht tun.",
+    "exampleChinese": "当心！您不能这么做。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_299",
+    "german": "allein",
+    "chinese": "独自",
+    "level": "A1",
+    "exampleSentence": "Er kommt allein.",
+    "exampleChinese": "他一个人来。",
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "a1_300",
+    "german": "also",
+    "chinese": "那么；所以",
+    "level": "A1",
+    "exampleSentence": "Er hat Zeit, also muss er uns helfen.",
+    "exampleChinese": "他有时间，所以他得帮我们。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_301",
+    "german": "Alter",
+    "chinese": "年龄",
+    "level": "A1",
+    "exampleSentence": "Mein Alter ist 26 Jahre.",
+    "exampleChinese": "我的年龄是26岁。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_302",
+    "german": "anbieten",
+    "chinese": "提供",
+    "level": "A1",
+    "exampleSentence": "Was darf ich dir anbieten?",
+    "exampleChinese": "我能给你拿点什么喝的？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_303",
+    "german": "andere",
+    "chinese": "别的；其他的",
+    "level": "A1",
+    "exampleSentence": "Nein, ich möchte die andere Jacke.",
+    "exampleChinese": "不，我想要另一件外套。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_304",
+    "german": "anfangen",
+    "chinese": "开始",
+    "level": "A1",
+    "exampleSentence": "Der Unterricht fängt gleich an.",
+    "exampleChinese": "课马上就要开始了。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_305",
+    "german": "anklicken",
+    "chinese": "点击",
+    "level": "A1",
+    "exampleSentence": "Da musst du dieses Wort anklicken.",
+    "exampleChinese": "你得点这个词。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_306",
+    "german": "ankommen",
+    "chinese": "到达",
+    "level": "A1",
+    "exampleSentence": "Wann kommt dieser Zug in Hamburg an?",
+    "exampleChinese": "这趟火车什么时候到汉堡？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_307",
+    "german": "Ankunft",
+    "chinese": "到达；抵达",
+    "level": "A1",
+    "exampleSentence": "Auf diesem Plan steht nur die Ankunft der Züge.",
+    "exampleChinese": "这张表上只写了列车的到站时间。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_308",
+    "german": "ankreuzen",
+    "chinese": "打勾",
+    "level": "A1",
+    "exampleSentence": "Auf dem Formular müssen Sie etwas ankreuzen.",
+    "exampleChinese": "在表格上您得打个勾。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_309",
+    "german": "anmachen",
+    "chinese": "打开（灯/电器）",
+    "level": "A1",
+    "exampleSentence": "Mach bitte das Licht an!",
+    "exampleChinese": "请把灯打开！",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_310",
+    "german": "anmelden",
+    "chinese": "报名；登记",
+    "level": "A1",
+    "exampleSentence": "Wo kann ich mich anmelden?",
+    "exampleChinese": "我在哪儿可以报名？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_311",
+    "german": "Anrede",
+    "chinese": "称呼",
+    "level": "A1",
+    "exampleSentence": "Schreiben Sie auch eine Anrede und einen Gruß.",
+    "exampleChinese": "也请写上称呼和问候语。",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_312",
+    "german": "anrufen",
+    "chinese": "打电话",
+    "level": "A1",
+    "exampleSentence": "Kann man Sie anrufen?",
+    "exampleChinese": "能给您打电话吗？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_313",
+    "german": "Anruf",
+    "chinese": "来电",
+    "level": "A1",
+    "exampleSentence": "Sie bekommt viele Anrufe auf ihrem Handy.",
+    "exampleChinese": "她手机上有很多来电。",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_314",
+    "german": "Ansage",
+    "chinese": "通知；广播",
+    "level": "A1",
+    "exampleSentence": "Hören Sie die Ansagen.",
+    "exampleChinese": "请听广播通知。",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_315",
+    "german": "Anschluss",
+    "chinese": "转乘；接口",
+    "level": "A1",
+    "exampleSentence": "In Mannheim haben Sie Anschluss nach Saarbrücken.",
+    "exampleChinese": "在曼海姆您可以转乘去萨尔布吕肯。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_316",
+    "german": "antworten",
+    "chinese": "回答",
+    "level": "A1",
+    "exampleSentence": "Er antwortet nicht.",
+    "exampleChinese": "他不回答。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_317",
+    "german": "Anzeige",
+    "chinese": "广告；启事",
+    "level": "A1",
+    "exampleSentence": "Ich habe Ihre Anzeige in der Zeitung gelesen.",
+    "exampleChinese": "我在报纸上看到了您的广告。",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_318",
+    "german": "anziehen",
+    "chinese": "穿上",
+    "level": "A1",
+    "exampleSentence": "Ich muss mich noch anziehen.",
+    "exampleChinese": "我还得穿衣服。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_319",
+    "german": "Apartment",
+    "chinese": "公寓",
+    "level": "A1",
+    "exampleSentence": "Wir haben ein Apartment gemietet.",
+    "exampleChinese": "我们租了一套公寓。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_320",
+    "german": "Appetit",
+    "chinese": "食欲；胃口",
+    "level": "A1",
+    "exampleSentence": "Guten Appetit!",
+    "exampleChinese": "祝你好胃口！",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_321",
+    "german": "arbeitslos",
+    "chinese": "失业的",
+    "level": "A1",
+    "exampleSentence": "Viele Leute sind hier schon lange arbeitslos.",
+    "exampleChinese": "这里很多人已经失业很久了。",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "id": "a1_322",
+    "german": "Arbeitsplatz",
+    "chinese": "工作岗位",
+    "level": "A1",
+    "exampleSentence": "An meinem Arbeitsplatz fehlt ein Drucker.",
+    "exampleChinese": "我的工位上缺一台打印机。",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "id": "a1_323",
+    "german": "Aufgabe",
+    "chinese": "任务；作业",
+    "level": "A1",
+    "exampleSentence": "Das ist eine schwere Aufgabe.",
+    "exampleChinese": "这是个难题。",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_324",
+    "german": "aufhören",
+    "chinese": "停止；结束",
+    "level": "A1",
+    "exampleSentence": "Der Kurs hört in einer Woche auf.",
+    "exampleChinese": "这门课一周后结束。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_325",
+    "german": "aufstehen",
+    "chinese": "起床",
+    "level": "A1",
+    "exampleSentence": "Ich muss immer um vier Uhr aufstehen.",
+    "exampleChinese": "我总是得四点起床。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_326",
+    "german": "Aufzug",
+    "chinese": "电梯",
+    "level": "A1",
+    "exampleSentence": "In diesem Haus gibt es keinen Aufzug.",
+    "exampleChinese": "这栋楼里没有电梯。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_327",
+    "german": "Ausflug",
+    "chinese": "远足；郊游",
+    "level": "A1",
+    "exampleSentence": "Morgen machen wir einen Ausflug nach Heidelberg.",
+    "exampleChinese": "明天我们去海德堡郊游。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_328",
+    "german": "ausfüllen",
+    "chinese": "填写",
+    "level": "A1",
+    "exampleSentence": "Füllen Sie bitte dieses Formular aus.",
+    "exampleChinese": "请填写这张表格。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_329",
+    "german": "Ausgang",
+    "chinese": "出口",
+    "level": "A1",
+    "exampleSentence": "Wo ist der Ausgang?",
+    "exampleChinese": "出口在哪儿？",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_330",
+    "german": "Auskunft",
+    "chinese": "问讯处；信息",
+    "level": "A1",
+    "exampleSentence": "Können Sie mir eine Auskunft geben?",
+    "exampleChinese": "您能给我一个信息吗？",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_331",
+    "german": "Ausland",
+    "chinese": "外国",
+    "level": "A1",
+    "exampleSentence": "Fahren Sie ins Ausland?",
+    "exampleChinese": "您要出国吗？",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_332",
+    "german": "ausmachen",
+    "chinese": "关掉",
+    "level": "A1",
+    "exampleSentence": "Mach bitte das Licht aus!",
+    "exampleChinese": "请把灯关掉！",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_333",
+    "german": "Aussage",
+    "chinese": "陈述；说法",
+    "level": "A1",
+    "exampleSentence": "Ist die Aussage richtig oder falsch?",
+    "exampleChinese": "这句话是对还是错？",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_334",
+    "german": "aussehen",
+    "chinese": "看起来",
+    "level": "A1",
+    "exampleSentence": "Das sieht schön aus.",
+    "exampleChinese": "这看起来很漂亮。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_335",
+    "german": "aussteigen",
+    "chinese": "下车",
+    "level": "A1",
+    "exampleSentence": "Wo muss ich aussteigen?",
+    "exampleChinese": "我该在哪儿下车？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_336",
+    "german": "Ausweis",
+    "chinese": "证件",
+    "level": "A1",
+    "exampleSentence": "Hier ist mein Ausweis.",
+    "exampleChinese": "这是我的证件。",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_337",
+    "german": "ausziehen",
+    "chinese": "脱下；搬出",
+    "level": "A1",
+    "exampleSentence": "Zieh die Schuhe aus, bitte!",
+    "exampleChinese": "请把鞋脱了！",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_338",
+    "german": "Autobahn",
+    "chinese": "高速公路",
+    "level": "A1",
+    "exampleSentence": "Wo geht es hier bitte zur Autobahn?",
+    "exampleChinese": "请问这里怎么上高速？",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_339",
+    "german": "Automat",
+    "chinese": "自动售货机",
+    "level": "A1",
+    "exampleSentence": "Die Fahrkarten gibt es nur am Automaten.",
+    "exampleChinese": "车票只能在自动售票机买。",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_340",
+    "german": "automatisch",
+    "chinese": "自动的",
+    "level": "A1",
+    "exampleSentence": "Du musst nichts machen. Das geht automatisch.",
+    "exampleChinese": "你什么都不用做，这是自动的。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_341",
+    "german": "Baby",
+    "chinese": "婴儿",
+    "level": "A1",
+    "exampleSentence": "Mein Kind ist noch ein Baby.",
+    "exampleChinese": "我的孩子还是个婴儿。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_342",
+    "german": "Bäckerei",
+    "chinese": "面包店",
+    "level": "A1",
+    "exampleSentence": "Ich gehe mal schnell zur Bäckerei.",
+    "exampleChinese": "我去趟面包店。",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_343",
+    "german": "baden",
+    "chinese": "洗澡；游泳",
+    "level": "A1",
+    "exampleSentence": "Ich bade nicht so gern, ich dusche lieber.",
+    "exampleChinese": "我不太喜欢泡澡，更喜欢淋浴。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_344",
+    "german": "Bahn",
+    "chinese": "火车；铁路",
+    "level": "A1",
+    "exampleSentence": "Wir fahren lieber mit der Bahn.",
+    "exampleChinese": "我们更喜欢坐火车。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_345",
+    "german": "Bahnsteig",
+    "chinese": "站台",
+    "level": "A1",
+    "exampleSentence": "Auf welchem Bahnsteig fährt der Zug?",
+    "exampleChinese": "火车在哪个站台发车？",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_346",
+    "german": "bald",
+    "chinese": "很快",
+    "level": "A1",
+    "exampleSentence": "Ich komme bald.",
+    "exampleChinese": "我很快就来。",
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "a1_347",
+    "german": "Balkon",
+    "chinese": "阳台",
+    "level": "A1",
+    "exampleSentence": "Die Wohnung hat auch einen kleinen Balkon.",
+    "exampleChinese": "这套房子还有一个小阳台。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_348",
+    "german": "Bank",
+    "chinese": "银行；长椅",
+    "level": "A1",
+    "exampleSentence": "Die Bank schließt schon um vier Uhr.",
+    "exampleChinese": "银行四点就关门了。",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_349",
+    "german": "bar",
+    "chinese": "现金的",
+    "level": "A1",
+    "exampleSentence": "Muss ich bar zahlen oder geht es auch mit Karte?",
+    "exampleChinese": "我必须付现金，还是也可以刷卡？",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_350",
+    "german": "Baum",
+    "chinese": "树",
+    "level": "A1",
+    "exampleSentence": "Vorsicht, fahr nicht an den Baum!",
+    "exampleChinese": "当心，别撞到树上！",
+    "tags": [
+      "environment"
+    ]
+  },
+  {
+    "id": "a1_351",
+    "german": "Beamte",
+    "chinese": "公务员；官员",
+    "level": "A1",
+    "exampleSentence": "Fragen Sie die Beamtin an Schalter acht!",
+    "exampleChinese": "请去八号窗口问那位工作人员！",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "id": "a1_352",
+    "german": "bedeuten",
+    "chinese": "意味着",
+    "level": "A1",
+    "exampleSentence": "Was bedeutet das Wort?",
+    "exampleChinese": "这个词是什么意思？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_353",
+    "german": "beginnen",
+    "chinese": "开始",
+    "level": "A1",
+    "exampleSentence": "Das Spiel beginnt um 15.30 Uhr.",
+    "exampleChinese": "比赛15点30分开始。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_354",
+    "german": "bei",
+    "chinese": "在……旁边；在……那里",
+    "level": "A1",
+    "exampleSentence": "Ich wohne bei meinen Eltern.",
+    "exampleChinese": "我住在父母那里。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_355",
+    "german": "beide",
+    "chinese": "两个都",
+    "level": "A1",
+    "exampleSentence": "Wir kommen beide.",
+    "exampleChinese": "我们俩都来。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_356",
+    "german": "Beispiel",
+    "chinese": "例子",
+    "level": "A1",
+    "exampleSentence": "Kannst du mir ein Beispiel sagen?",
+    "exampleChinese": "你能给我举个例子吗？",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_357",
+    "german": "bekannt",
+    "chinese": "著名的；熟悉的",
+    "level": "A1",
+    "exampleSentence": "Picasso ist sehr bekannt.",
+    "exampleChinese": "毕加索很有名。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_358",
+    "german": "bekommen",
+    "chinese": "得到",
+    "level": "A1",
+    "exampleSentence": "Haben Sie meinen Brief bekommen?",
+    "exampleChinese": "您收到我的信了吗？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_359",
+    "german": "benutzen",
+    "chinese": "使用",
+    "level": "A1",
+    "exampleSentence": "Die Aufzüge bitte nicht benutzen!",
+    "exampleChinese": "请不要使用电梯！",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_360",
+    "german": "Beruf",
+    "chinese": "职业",
+    "level": "A1",
+    "exampleSentence": "Was sind Sie von Beruf?",
+    "exampleChinese": "您是做什么职业的？",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "id": "a1_361",
+    "german": "besichtigen",
+    "chinese": "参观",
+    "level": "A1",
+    "exampleSentence": "Ich möchte gern den Dom besichtigen.",
+    "exampleChinese": "我想参观大教堂。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_362",
+    "german": "besser",
+    "chinese": "更好的",
+    "level": "A1",
+    "exampleSentence": "Es geht mir schon besser.",
+    "exampleChinese": "我已经好些了。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_363",
+    "german": "am besten",
+    "chinese": "最好",
+    "level": "A1",
+    "exampleSentence": "Am besten treffen wir uns morgen.",
+    "exampleChinese": "我们最好明天见面。",
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "a1_364",
+    "german": "bestellen",
+    "chinese": "点（菜）；订购",
+    "level": "A1",
+    "exampleSentence": "Wir möchten bestellen, bitte.",
+    "exampleChinese": "我们想点菜。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_365",
+    "german": "besuchen",
+    "chinese": "拜访",
+    "level": "A1",
+    "exampleSentence": "Darf ich dich besuchen?",
+    "exampleChinese": "我可以去拜访你吗？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_366",
+    "german": "Bild",
+    "chinese": "图片；照片",
+    "level": "A1",
+    "exampleSentence": "Hast du ein Bild von deinem Sohn?",
+    "exampleChinese": "你有你儿子的照片吗？",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_367",
+    "german": "Birne",
+    "chinese": "梨；灯泡",
+    "level": "A1",
+    "exampleSentence": "Ein Kilo Birnen, bitte!",
+    "exampleChinese": "请来一公斤梨！",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_368",
+    "german": "bis",
+    "chinese": "直到",
+    "level": "A1",
+    "exampleSentence": "Ich fahre nur bis Stuttgart.",
+    "exampleChinese": "我只坐到斯图加特。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_369",
+    "german": "bisschen",
+    "chinese": "一点儿",
+    "level": "A1",
+    "exampleSentence": "Ich spreche ein bisschen Deutsch.",
+    "exampleChinese": "我会说一点儿德语。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_370",
+    "german": "bitter",
+    "chinese": "苦的",
+    "level": "A1",
+    "exampleSentence": "Der Kaffee schmeckt bitter.",
+    "exampleChinese": "这咖啡尝起来很苦。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_371",
+    "german": "bleiben",
+    "chinese": "停留",
+    "level": "A1",
+    "exampleSentence": "Ich bleibe heute zu Hause.",
+    "exampleChinese": "我今天待在家里。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_372",
+    "german": "Bleistift",
+    "chinese": "铅笔",
+    "level": "A1",
+    "exampleSentence": "Hast du einen Bleistift?",
+    "exampleChinese": "你有铅笔吗？",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_373",
+    "german": "Blick",
+    "chinese": "视野；目光",
+    "level": "A1",
+    "exampleSentence": "Von diesem Hotel hat man einen guten Blick auf den Rhein.",
+    "exampleChinese": "从这家酒店能很好地看到莱茵河。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_374",
+    "german": "Blume",
+    "chinese": "花",
+    "level": "A1",
+    "exampleSentence": "Gefallen dir die Blumen?",
+    "exampleChinese": "你喜欢这些花吗？",
+    "tags": [
+      "environment"
+    ]
+  },
+  {
+    "id": "a1_375",
+    "german": "Bogen",
+    "chinese": "单子；纸张",
+    "level": "A1",
+    "exampleSentence": "Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen.",
+    "exampleChinese": "请把您的答案写在答题纸上。",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_376",
+    "german": "böse",
+    "chinese": "生气的；坏的",
+    "level": "A1",
+    "exampleSentence": "Sie ist böse auf mich.",
+    "exampleChinese": "她生我的气。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_377",
+    "german": "breit",
+    "chinese": "宽的",
+    "level": "A1",
+    "exampleSentence": "Wie breit ist der Schrank?",
+    "exampleChinese": "这个柜子有多宽？",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_378",
+    "german": "Brief",
+    "chinese": "信",
+    "level": "A1",
+    "exampleSentence": "Haben Sie einen Brief für mich?",
+    "exampleChinese": "您有我的信吗？",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_379",
+    "german": "Briefmarke",
+    "chinese": "邮票",
+    "level": "A1",
+    "exampleSentence": "Kaufst du bitte Briefmarken bei der Post?",
+    "exampleChinese": "你能去邮局买点邮票吗？",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_380",
+    "german": "bringen",
+    "chinese": "带来",
+    "level": "A1",
+    "exampleSentence": "Bringen Sie mir bitte noch einen Kaffee!",
+    "exampleChinese": "请再给我来一杯咖啡！",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_381",
+    "german": "Brötchen",
+    "chinese": "小面包",
+    "level": "A1",
+    "exampleSentence": "Möchtest du Brötchen zum Frühstück?",
+    "exampleChinese": "你早餐想吃小面包吗？",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_382",
+    "german": "Buch",
+    "chinese": "书",
+    "level": "A1",
+    "exampleSentence": "Gute Bücher sind oft sehr teuer.",
+    "exampleChinese": "好书常常很贵。",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_383",
+    "german": "Buchstabe",
+    "chinese": "字母",
+    "level": "A1",
+    "exampleSentence": "Diesen Buchstaben gibt es in meiner Sprache nicht.",
+    "exampleChinese": "我的语言里没有这个字母。",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_384",
+    "german": "buchstabieren",
+    "chinese": "拼写",
+    "level": "A1",
+    "exampleSentence": "Bitte buchstabieren Sie Ihren Namen.",
+    "exampleChinese": "请拼写您的名字。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_385",
+    "german": "Café",
+    "chinese": "咖啡馆",
+    "level": "A1",
+    "exampleSentence": "Sollen wir uns im Café treffen?",
+    "exampleChinese": "我们要在咖啡馆见面吗？",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_386",
+    "german": "CD",
+    "chinese": "光盘",
+    "level": "A1",
+    "exampleSentence": "Bring bitte deine Lieblings-CD mit.",
+    "exampleChinese": "请带上你最喜欢的光盘。",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_387",
+    "german": "Chef",
+    "chinese": "老板；上司",
+    "level": "A1",
+    "exampleSentence": "Wir haben eine neue Chefin.",
+    "exampleChinese": "我们有了一位新的女上司。",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "id": "a1_388",
+    "german": "circa",
+    "chinese": "大约",
+    "level": "A1",
+    "exampleSentence": "Von Mainz nach Frankfurt sind es circa fünfzig Kilometer.",
+    "exampleChinese": "从美因茨到法兰克福大约五十公里。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "a1_389",
+    "german": "Dame",
+    "chinese": "女士",
+    "level": "A1",
+    "exampleSentence": "Sehr geehrte Damen und Herren!",
+    "exampleChinese": "尊敬的女士们、先生们！",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "a1_390",
+    "german": "daneben",
+    "chinese": "在旁边",
+    "level": "A1",
+    "exampleSentence": "Du kennst doch die Post. Daneben ist die Bank.",
+    "exampleChinese": "你知道邮局吧。银行就在它旁边。",
+    "tags": [
+      "direction"
+    ]
+  },
+  {
+    "id": "a1_391",
+    "german": "danken",
+    "chinese": "感谢",
+    "level": "A1",
+    "exampleSentence": "Ich danke Ihnen für die Einladung.",
+    "exampleChinese": "谢谢您的邀请。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_392",
+    "german": "dann",
+    "chinese": "然后；那么",
+    "level": "A1",
+    "exampleSentence": "Ich muss noch schnell zur Post, dann komme ich.",
+    "exampleChinese": "我得快去趟邮局，然后就来。",
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "a1_393",
+    "german": "Datum",
+    "chinese": "日期",
+    "level": "A1",
+    "exampleSentence": "Bitte schreiben Sie das Datum auf das Formular.",
+    "exampleChinese": "请在表格上写上日期。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_394",
+    "german": "dauern",
+    "chinese": "持续",
+    "level": "A1",
+    "exampleSentence": "Wie lange dauert der Film?",
+    "exampleChinese": "这部电影多长时间？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_395",
+    "german": "dein",
+    "chinese": "你的",
+    "level": "A1",
+    "exampleSentence": "Ist das dein Auto?",
+    "exampleChinese": "这是你的车吗？",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "a1_396",
+    "german": "denn",
+    "chinese": "因为",
+    "level": "A1",
+    "exampleSentence": "Ich kann nicht kommen, denn ich bin krank.",
+    "exampleChinese": "我不能来，因为我病了。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_397",
+    "german": "dich",
+    "chinese": "你（宾格）",
+    "level": "A1",
+    "exampleSentence": "Die Blumen sind für dich.",
+    "exampleChinese": "这些花是给你的。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "a1_398",
+    "german": "dieser",
+    "chinese": "这个",
+    "level": "A1",
+    "exampleSentence": "Ich nehme lieber diesen Kuchen.",
+    "exampleChinese": "我更想要这块蛋糕。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "a1_399",
+    "german": "dir",
+    "chinese": "你（与格）",
+    "level": "A1",
+    "exampleSentence": "Gefallen dir die Blumen?",
+    "exampleChinese": "你喜欢这些花吗？",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "a1_400",
+    "german": "Disco",
+    "chinese": "迪斯科舞厅",
+    "level": "A1",
+    "exampleSentence": "Heute Abend gehen wir in die Disco tanzen.",
+    "exampleChinese": "今晚我们去迪厅跳舞。",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_401",
+    "german": "Doktor",
+    "chinese": "医生；博士",
+    "level": "A1",
+    "exampleSentence": "Meine Tochter ist krank. Wir gehen zum Doktor.",
+    "exampleChinese": "我女儿病了。我们去看医生。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a1_402",
+    "german": "Doppelzimmer",
+    "chinese": "双人间",
+    "level": "A1",
+    "exampleSentence": "Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?",
+    "exampleChinese": "您要双人间还是单人间？",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_403",
+    "german": "Dorf",
+    "chinese": "村庄",
+    "level": "A1",
+    "exampleSentence": "Meine Familie lebt in einem Dorf.",
+    "exampleChinese": "我的家人住在一个村子里。",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_404",
+    "german": "draußen",
+    "chinese": "外面",
+    "level": "A1",
+    "exampleSentence": "Wollen wir draußen sitzen?",
+    "exampleChinese": "我们要坐在外面吗？",
+    "tags": [
+      "direction"
+    ]
+  },
+  {
+    "id": "a1_405",
+    "german": "drucken",
+    "chinese": "打印",
+    "level": "A1",
+    "exampleSentence": "Bitte drucke das Formular für mich.",
+    "exampleChinese": "请帮我把表格打印出来。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_406",
+    "german": "drücken",
+    "chinese": "按；压",
+    "level": "A1",
+    "exampleSentence": "Drück hier, dann geht der Computer an.",
+    "exampleChinese": "按这里，电脑就开了。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_407",
+    "german": "durch",
+    "chinese": "穿过",
+    "level": "A1",
+    "exampleSentence": "Am besten gehen Sie durch die Breite Straße.",
+    "exampleChinese": "您最好穿过宽街走。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_408",
+    "german": "Durchsage",
+    "chinese": "广播通知",
+    "level": "A1",
+    "exampleSentence": "Ich habe die Durchsage nicht verstanden.",
+    "exampleChinese": "我没听懂那个广播。",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_409",
+    "german": "dürfen",
+    "chinese": "可以；被允许",
+    "level": "A1",
+    "exampleSentence": "Sie dürfen hier nicht rauchen.",
+    "exampleChinese": "您不能在这里抽烟。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_410",
+    "german": "duschen",
+    "chinese": "淋浴",
+    "level": "A1",
+    "exampleSentence": "Ich dusche lieber, als zu baden.",
+    "exampleChinese": "比起泡澡我更喜欢淋浴。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_411",
+    "german": "Ecke",
+    "chinese": "角落；街角",
+    "level": "A1",
+    "exampleSentence": "An der nächsten Ecke links.",
+    "exampleChinese": "在下一个街角往左拐。",
+    "tags": [
+      "direction"
+    ]
+  },
+  {
+    "id": "a1_412",
+    "german": "Ehefrau",
+    "chinese": "妻子",
+    "level": "A1",
+    "exampleSentence": "Das ist meine Ehefrau.",
+    "exampleChinese": "这是我妻子。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_413",
+    "german": "Ehemann",
+    "chinese": "丈夫",
+    "level": "A1",
+    "exampleSentence": "Das ist mein Ehemann.",
+    "exampleChinese": "这是我丈夫。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_414",
+    "german": "Ei",
+    "chinese": "鸡蛋",
+    "level": "A1",
+    "exampleSentence": "Möchtest du ein Ei zum Frühstück?",
+    "exampleChinese": "你早餐想吃个鸡蛋吗？",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_415",
+    "german": "eilig",
+    "chinese": "急的",
+    "level": "A1",
+    "exampleSentence": "Hast du es eilig?",
+    "exampleChinese": "你赶时间吗？",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_416",
+    "german": "Eingang",
+    "chinese": "入口",
+    "level": "A1",
+    "exampleSentence": "Der Eingang ist um die Ecke.",
+    "exampleChinese": "入口在拐角处。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_417",
+    "german": "einkaufen",
+    "chinese": "购物",
+    "level": "A1",
+    "exampleSentence": "Ich muss noch für morgen einkaufen.",
+    "exampleChinese": "我还得为明天采购。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_418",
+    "german": "einladen",
+    "chinese": "邀请",
+    "level": "A1",
+    "exampleSentence": "Darf ich Sie zu einem Kaffee einladen?",
+    "exampleChinese": "我可以请您喝杯咖啡吗？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_419",
+    "german": "einmal",
+    "chinese": "一次；曾经",
+    "level": "A1",
+    "exampleSentence": "Diese Prüfung mache ich nicht noch einmal.",
+    "exampleChinese": "这个考试我不会再考一次了。",
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "a1_420",
+    "german": "einsteigen",
+    "chinese": "上车",
+    "level": "A1",
+    "exampleSentence": "Schnell, steig ein, der Zug fährt gleich.",
+    "exampleChinese": "快上车，火车马上要开了。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_421",
+    "german": "Eintritt",
+    "chinese": "入场；门票",
+    "level": "A1",
+    "exampleSentence": "Der Preis für den Eintritt ist 5 Euro.",
+    "exampleChinese": "门票价格是5欧元。",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_422",
+    "german": "Einzelzimmer",
+    "chinese": "单人间",
+    "level": "A1",
+    "exampleSentence": "Haben Sie noch ein Einzelzimmer?",
+    "exampleChinese": "您还有单人间吗？",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_423",
+    "german": "E-Mail",
+    "chinese": "电子邮件",
+    "level": "A1",
+    "exampleSentence": "Ich habe Ihre E-Mail nicht bekommen.",
+    "exampleChinese": "我没收到您的邮件。",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_424",
+    "german": "Empfänger",
+    "chinese": "收件人",
+    "level": "A1",
+    "exampleSentence": "Auf dem Brief steht dein Name, also bist du der Empfänger.",
+    "exampleChinese": "信上写着你的名字，所以你是收件人。",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_425",
+    "german": "empfehlen",
+    "chinese": "推荐",
+    "level": "A1",
+    "exampleSentence": "Welchen Wein können Sie mir empfehlen?",
+    "exampleChinese": "您能给我推荐哪种葡萄酒？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_426",
+    "german": "enden",
+    "chinese": "结束",
+    "level": "A1",
+    "exampleSentence": "Die Straße endet hier.",
+    "exampleChinese": "这条路到这里就到头了。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_427",
+    "german": "entschuldigen",
+    "chinese": "原谅；抱歉",
+    "level": "A1",
+    "exampleSentence": "Entschuldigen Sie bitte!",
+    "exampleChinese": "请原谅！",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_428",
+    "german": "Ergebnis",
+    "chinese": "结果",
+    "level": "A1",
+    "exampleSentence": "Das Ergebnis des Tests bekommen Sie in zwei Wochen.",
+    "exampleChinese": "测试结果您两周后就能拿到。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_429",
+    "german": "erklären",
+    "chinese": "解释",
+    "level": "A1",
+    "exampleSentence": "Kannst du mir das erklären?",
+    "exampleChinese": "你能给我解释一下吗？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_430",
+    "german": "erlauben",
+    "chinese": "允许",
+    "level": "A1",
+    "exampleSentence": "Rauchen ist hier nicht erlaubt.",
+    "exampleChinese": "这里不允许抽烟。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_431",
+    "german": "Erwachsene",
+    "chinese": "成年人",
+    "level": "A1",
+    "exampleSentence": "Dieser Film ist nur für Erwachsene.",
+    "exampleChinese": "这部电影只供成年人观看。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "a1_432",
+    "german": "erzählen",
+    "chinese": "讲述",
+    "level": "A1",
+    "exampleSentence": "Wir müssen euch etwas erzählen!",
+    "exampleChinese": "我们得跟你们讲点事！",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_433",
+    "german": "euer",
+    "chinese": "你们的",
+    "level": "A1",
+    "exampleSentence": "Euer Kurs beginnt heute.",
+    "exampleChinese": "你们的课今天开始。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "a1_434",
+    "german": "Fahrkarte",
+    "chinese": "车票",
+    "level": "A1",
+    "exampleSentence": "Hast du schon eine Fahrkarte?",
+    "exampleChinese": "你买到车票了吗？",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_435",
+    "german": "Farbe",
+    "chinese": "颜色",
+    "level": "A1",
+    "exampleSentence": "Die Farbe gefällt mir gut.",
+    "exampleChinese": "我很喜欢这个颜色。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "a1_436",
+    "german": "Fax",
+    "chinese": "传真",
+    "level": "A1",
+    "exampleSentence": "Schicken Sie uns einfach ein Fax!",
+    "exampleChinese": "您给我们发个传真就行！",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_437",
+    "german": "Feiertag",
+    "chinese": "节日；假日",
+    "level": "A1",
+    "exampleSentence": "Am Montag ist Feiertag.",
+    "exampleChinese": "周一是节日。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_438",
+    "german": "feiern",
+    "chinese": "庆祝",
+    "level": "A1",
+    "exampleSentence": "Wir feiern heute meinen Geburtstag.",
+    "exampleChinese": "今天我们庆祝我的生日。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_439",
+    "german": "fehlen",
+    "chinese": "缺少；缺席",
+    "level": "A1",
+    "exampleSentence": "Herr Müller fehlt schon seit drei Tagen.",
+    "exampleChinese": "米勒先生已经缺席三天了。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_440",
+    "german": "Fehler",
+    "chinese": "错误",
+    "level": "A1",
+    "exampleSentence": "Diesen Fehler mache ich immer.",
+    "exampleChinese": "这个错我总是犯。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_441",
+    "german": "fernsehen",
+    "chinese": "看电视",
+    "level": "A1",
+    "exampleSentence": "Wollen wir heute Abend mal fernsehen?",
+    "exampleChinese": "我们今晚看会儿电视吧？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_442",
+    "german": "fertig",
+    "chinese": "完成的；准备好的",
+    "level": "A1",
+    "exampleSentence": "Bist du fertig?",
+    "exampleChinese": "你准备好了吗？",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_443",
+    "german": "Feuer",
+    "chinese": "火",
+    "level": "A1",
+    "exampleSentence": "Haben Sie Feuer?",
+    "exampleChinese": "您有火（打火机）吗？",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_444",
+    "german": "Fieber",
+    "chinese": "发烧",
+    "level": "A1",
+    "exampleSentence": "Mein Mann hat noch immer Fieber.",
+    "exampleChinese": "我丈夫还在发烧。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a1_445",
+    "german": "Film",
+    "chinese": "电影",
+    "level": "A1",
+    "exampleSentence": "Ich möchte gern diesen Film sehen.",
+    "exampleChinese": "我想看这部电影。",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_446",
+    "german": "Firma",
+    "chinese": "公司",
+    "level": "A1",
+    "exampleSentence": "Er arbeitet jetzt bei einer anderen Firma.",
+    "exampleChinese": "他现在在另一家公司工作。",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "id": "a1_447",
+    "german": "Flasche",
+    "chinese": "瓶子",
+    "level": "A1",
+    "exampleSentence": "Eine Flasche Bier, bitte.",
+    "exampleChinese": "请来一瓶啤酒。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_448",
+    "german": "fliegen",
+    "chinese": "飞",
+    "level": "A1",
+    "exampleSentence": "Ich fliege nicht gern, deshalb fahre ich mit dem Zug.",
+    "exampleChinese": "我不喜欢坐飞机，所以坐火车。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_449",
+    "german": "Flugzeug",
+    "chinese": "飞机",
+    "level": "A1",
+    "exampleSentence": "Das Flugzeug aus Berlin kommt heute später an.",
+    "exampleChinese": "来自柏林的航班今天晚点到。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_450",
+    "german": "Formular",
+    "chinese": "表格",
+    "level": "A1",
+    "exampleSentence": "Sie müssen dieses Formular ausfüllen.",
+    "exampleChinese": "您得填写这张表格。",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_451",
+    "german": "Foto",
+    "chinese": "照片",
+    "level": "A1",
+    "exampleSentence": "Darf ich ein Foto machen?",
+    "exampleChinese": "我可以拍张照吗？",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_452",
+    "german": "fragen",
+    "chinese": "问",
+    "level": "A1",
+    "exampleSentence": "Er möchte Sie etwas fragen.",
+    "exampleChinese": "他想问您一件事。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_453",
+    "german": "Freizeit",
+    "chinese": "业余时间",
+    "level": "A1",
+    "exampleSentence": "In meiner Freizeit spiele ich oft Fußball.",
+    "exampleChinese": "业余时间我常踢足球。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_454",
+    "german": "fremd",
+    "chinese": "陌生的",
+    "level": "A1",
+    "exampleSentence": "Ich bin fremd hier.",
+    "exampleChinese": "我对这里不熟。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_455",
+    "german": "freuen",
+    "chinese": "高兴",
+    "level": "A1",
+    "exampleSentence": "Ich freue mich auf den Urlaub.",
+    "exampleChinese": "我很期待这次假期。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_456",
+    "german": "früher",
+    "chinese": "以前",
+    "level": "A1",
+    "exampleSentence": "Früher waren wir oft zusammen im Kino.",
+    "exampleChinese": "以前我们常一起去看电影。",
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "a1_457",
+    "german": "frühstücken",
+    "chinese": "吃早餐",
+    "level": "A1",
+    "exampleSentence": "Am Sonntag frühstücke ich gern im Bett.",
+    "exampleChinese": "周日我喜欢在床上吃早餐。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_458",
+    "german": "Führung",
+    "chinese": "导览；参观讲解",
+    "level": "A1",
+    "exampleSentence": "Die Führung durch das Haus beginnt in drei Minuten.",
+    "exampleChinese": "房子的导览三分钟后开始。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_459",
+    "german": "Fuß",
+    "chinese": "脚",
+    "level": "A1",
+    "exampleSentence": "Der linke Fuß tut mir weh.",
+    "exampleChinese": "我左脚疼。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a1_460",
+    "german": "Fußball",
+    "chinese": "足球",
+    "level": "A1",
+    "exampleSentence": "Spielt ihr gerne Fußball?",
+    "exampleChinese": "你们喜欢踢足球吗？",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_461",
+    "german": "Garten",
+    "chinese": "花园",
+    "level": "A1",
+    "exampleSentence": "Wir haben leider keinen Garten.",
+    "exampleChinese": "可惜我们没有花园。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_462",
+    "german": "Gast",
+    "chinese": "客人",
+    "level": "A1",
+    "exampleSentence": "Am Wochenende haben wir mehrere Gäste.",
+    "exampleChinese": "周末我们有好几位客人。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "a1_463",
+    "german": "geboren",
+    "chinese": "出生的",
+    "level": "A1",
+    "exampleSentence": "Ich bin in Zagreb geboren.",
+    "exampleChinese": "我出生在萨格勒布。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_464",
+    "german": "Geburtsjahr",
+    "chinese": "出生年份",
+    "level": "A1",
+    "exampleSentence": "Das Geburtsjahr Ihres Sohnes, bitte?",
+    "exampleChinese": "请问您儿子的出生年份？",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_465",
+    "german": "Geburtsort",
+    "chinese": "出生地",
+    "level": "A1",
+    "exampleSentence": "Bitte schreiben Sie Ihren Geburtsort auf das Formular.",
+    "exampleChinese": "请在表格上写上您的出生地。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_466",
+    "german": "Geburtstag",
+    "chinese": "生日",
+    "level": "A1",
+    "exampleSentence": "Herzlichen Glückwunsch zum Geburtstag!",
+    "exampleChinese": "生日快乐！",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_467",
+    "german": "gefallen",
+    "chinese": "使喜欢",
+    "level": "A1",
+    "exampleSentence": "Das gefällt mir.",
+    "exampleChinese": "我喜欢这个。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_468",
+    "german": "gegen",
+    "chinese": "反对；朝向；大约",
+    "level": "A1",
+    "exampleSentence": "Fahr nicht gegen den Baum!",
+    "exampleChinese": "别撞到树上！",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_469",
+    "german": "gehören",
+    "chinese": "属于",
+    "level": "A1",
+    "exampleSentence": "Wem gehört das?",
+    "exampleChinese": "这是谁的？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_470",
+    "german": "Gepäck",
+    "chinese": "行李",
+    "level": "A1",
+    "exampleSentence": "Wollen Sie Ihr Gepäck mitnehmen?",
+    "exampleChinese": "您要带上行李吗？",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_471",
+    "german": "gerade",
+    "chinese": "正好；刚刚",
+    "level": "A1",
+    "exampleSentence": "Da kommt er ja gerade.",
+    "exampleChinese": "他正好来了。",
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "a1_472",
+    "german": "Geschäft",
+    "chinese": "商店；生意",
+    "level": "A1",
+    "exampleSentence": "Die Geschäfte schließen um 18.30 Uhr.",
+    "exampleChinese": "商店18点30分关门。",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_473",
+    "german": "Geschenk",
+    "chinese": "礼物",
+    "level": "A1",
+    "exampleSentence": "Danke für das schöne Geschenk.",
+    "exampleChinese": "谢谢这么漂亮的礼物。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_474",
+    "german": "Geschwister",
+    "chinese": "兄弟姐妹",
+    "level": "A1",
+    "exampleSentence": "Ich habe leider keine Geschwister.",
+    "exampleChinese": "可惜我没有兄弟姐妹。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_475",
+    "german": "Gespräch",
+    "chinese": "谈话",
+    "level": "A1",
+    "exampleSentence": "Das Gespräch mit Frau Kunz ist um 14 Uhr.",
+    "exampleChinese": "与昆茨女士的谈话在14点。",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_476",
+    "german": "gestorben",
+    "chinese": "去世的",
+    "level": "A1",
+    "exampleSentence": "Mein Großvater ist letztes Jahr gestorben.",
+    "exampleChinese": "我祖父去年去世了。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_477",
+    "german": "Getränk",
+    "chinese": "饮料",
+    "level": "A1",
+    "exampleSentence": "Mein Lieblingsgetränk ist Tomatensaft.",
+    "exampleChinese": "我最喜欢的饮料是番茄汁。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_478",
+    "german": "Gewicht",
+    "chinese": "重量",
+    "level": "A1",
+    "exampleSentence": "Bei Gewicht schreibst du 62 Kilo.",
+    "exampleChinese": "在“重量”那栏你写62公斤。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_479",
+    "german": "gewinnen",
+    "chinese": "赢",
+    "level": "A1",
+    "exampleSentence": "Wer gewinnt das Spiel?",
+    "exampleChinese": "谁会赢这场比赛？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_480",
+    "german": "Glas",
+    "chinese": "玻璃杯；玻璃",
+    "level": "A1",
+    "exampleSentence": "Bitte noch ein Glas Wein!",
+    "exampleChinese": "请再来一杯葡萄酒！",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_481",
+    "german": "glauben",
+    "chinese": "相信；认为",
+    "level": "A1",
+    "exampleSentence": "Ich glaube, er kommt gleich.",
+    "exampleChinese": "我想他马上就来。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_482",
+    "german": "gleich",
+    "chinese": "马上；相同的",
+    "level": "A1",
+    "exampleSentence": "Ich komme gleich.",
+    "exampleChinese": "我马上来。",
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "a1_483",
+    "german": "Gleis",
+    "chinese": "站台轨道",
+    "level": "A1",
+    "exampleSentence": "Der ICE nach Berlin hält heute an Gleis 12.",
+    "exampleChinese": "去柏林的城际快车今天停在12号轨道。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_484",
+    "german": "Glück",
+    "chinese": "幸运；幸福",
+    "level": "A1",
+    "exampleSentence": "Viel Glück!",
+    "exampleChinese": "祝你好运！",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_485",
+    "german": "glücklich",
+    "chinese": "幸福的；高兴的",
+    "level": "A1",
+    "exampleSentence": "Meine Kinder sind glücklich verheiratet.",
+    "exampleChinese": "我的孩子们婚姻幸福。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_486",
+    "german": "Glückwunsch",
+    "chinese": "祝贺",
+    "level": "A1",
+    "exampleSentence": "Herzlichen Glückwunsch zum Geburtstag!",
+    "exampleChinese": "生日快乐！",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_487",
+    "german": "Grad",
+    "chinese": "度（温度）",
+    "level": "A1",
+    "exampleSentence": "Heute haben wir dreißig Grad.",
+    "exampleChinese": "今天有三十度。",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "a1_488",
+    "german": "gratulieren",
+    "chinese": "祝贺",
+    "level": "A1",
+    "exampleSentence": "Ich gratuliere dir!",
+    "exampleChinese": "我祝贺你！",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_489",
+    "german": "grillen",
+    "chinese": "烧烤",
+    "level": "A1",
+    "exampleSentence": "Heute grillen wir im Garten.",
+    "exampleChinese": "今天我们在花园里烧烤。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_490",
+    "german": "Großeltern",
+    "chinese": "祖父母",
+    "level": "A1",
+    "exampleSentence": "Meine Großeltern leben in Japan.",
+    "exampleChinese": "我的祖父母住在日本。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_491",
+    "german": "Gruppe",
+    "chinese": "小组；团体",
+    "level": "A1",
+    "exampleSentence": "Die erste Gruppe beginnt um 16 Uhr.",
+    "exampleChinese": "第一组16点开始。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_492",
+    "german": "Gruß",
+    "chinese": "问候",
+    "level": "A1",
+    "exampleSentence": "Viele Grüße an Ihre Frau.",
+    "exampleChinese": "向您夫人问好。",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_493",
+    "german": "gültig",
+    "chinese": "有效的",
+    "level": "A1",
+    "exampleSentence": "Der Pass ist nicht mehr gültig.",
+    "exampleChinese": "这本护照已经失效了。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_494",
+    "german": "günstig",
+    "chinese": "便宜的；划算的",
+    "level": "A1",
+    "exampleSentence": "Dort gibt es günstige Angebote.",
+    "exampleChinese": "那里有便宜的特价商品。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_495",
+    "german": "Haar",
+    "chinese": "头发",
+    "level": "A1",
+    "exampleSentence": "Sie hat lange Haare.",
+    "exampleChinese": "她有一头长发。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a1_496",
+    "german": "Hähnchen",
+    "chinese": "烤鸡",
+    "level": "A1",
+    "exampleSentence": "Ein Hähnchen mit Pommes, bitte!",
+    "exampleChinese": "请来一份烤鸡配薯条！",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_497",
+    "german": "Halbpension",
+    "chinese": "半膳",
+    "level": "A1",
+    "exampleSentence": "Möchten Sie Vollpension oder Halbpension?",
+    "exampleChinese": "您要全膳还是半膳？",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_498",
+    "german": "Halle",
+    "chinese": "大厅；展厅",
+    "level": "A1",
+    "exampleSentence": "Wir treffen uns in Halle B.",
+    "exampleChinese": "我们在B厅碰面。",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_499",
+    "german": "halten",
+    "chinese": "停；保持",
+    "level": "A1",
+    "exampleSentence": "Dieser Zug hält nicht in Rüdesheim.",
+    "exampleChinese": "这趟火车不在吕德斯海姆停。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_500",
+    "german": "Haltestelle",
+    "chinese": "车站（公交）",
+    "level": "A1",
+    "exampleSentence": "An der nächsten Haltestelle müssen Sie aussteigen.",
+    "exampleChinese": "您得在下一站下车。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_501",
+    "german": "Handy",
+    "chinese": "手机",
+    "level": "A1",
+    "exampleSentence": "In der Schule bitte die Handys ausmachen!",
+    "exampleChinese": "在学校请把手机关掉！",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_502",
+    "german": "Hausaufgabe",
+    "chinese": "家庭作业",
+    "level": "A1",
+    "exampleSentence": "Kannst du mir bei den Hausaufgaben helfen?",
+    "exampleChinese": "你能帮我做作业吗？",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_503",
+    "german": "Hausfrau",
+    "chinese": "家庭主妇",
+    "level": "A1",
+    "exampleSentence": "Die Hausfrau kocht und kauft ein.",
+    "exampleChinese": "家庭主妇做饭和买东西。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_504",
+    "german": "Heimat",
+    "chinese": "家乡",
+    "level": "A1",
+    "exampleSentence": "Ich komme aus der Schweiz. Das ist meine Heimat.",
+    "exampleChinese": "我来自瑞士，那是我的家乡。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_505",
+    "german": "heiraten",
+    "chinese": "结婚",
+    "level": "A1",
+    "exampleSentence": "Meine Schwester heiratet einen Japaner.",
+    "exampleChinese": "我姐姐要嫁给一个日本人。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_506",
+    "german": "helfen",
+    "chinese": "帮助",
+    "level": "A1",
+    "exampleSentence": "Können Sie mir helfen, bitte?",
+    "exampleChinese": "您能帮我一下吗？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_507",
+    "german": "hell",
+    "chinese": "明亮的",
+    "level": "A1",
+    "exampleSentence": "Im Sommer ist es bis 21 Uhr hell.",
+    "exampleChinese": "夏天天亮到晚上九点。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_508",
+    "german": "Herd",
+    "chinese": "炉灶",
+    "level": "A1",
+    "exampleSentence": "In der neuen Küche fehlt noch der Herd.",
+    "exampleChinese": "新厨房还缺一个炉灶。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_509",
+    "german": "Herr",
+    "chinese": "先生",
+    "level": "A1",
+    "exampleSentence": "Guten Tag, Herr Sommer!",
+    "exampleChinese": "您好，索默先生！",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "a1_510",
+    "german": "herzlich",
+    "chinese": "衷心的",
+    "level": "A1",
+    "exampleSentence": "Herzlichen Glückwunsch!",
+    "exampleChinese": "衷心祝贺！",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_511",
+    "german": "Hilfe",
+    "chinese": "帮助",
+    "level": "A1",
+    "exampleSentence": "Hilfe! Bitte helfen Sie mir!",
+    "exampleChinese": "救命！请帮帮我！",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_512",
+    "german": "hinten",
+    "chinese": "后面",
+    "level": "A1",
+    "exampleSentence": "Die Tür zum Aussteigen ist hinten.",
+    "exampleChinese": "下车的门在后面。",
+    "tags": [
+      "direction"
+    ]
+  },
+  {
+    "id": "a1_513",
+    "german": "Hobby",
+    "chinese": "爱好",
+    "level": "A1",
+    "exampleSentence": "Meine Hobbys sind Wandern und Schwimmen.",
+    "exampleChinese": "我的爱好是徒步和游泳。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_514",
+    "german": "hoch",
+    "chinese": "高的",
+    "level": "A1",
+    "exampleSentence": "Der Mount Everest ist 8848 Meter hoch.",
+    "exampleChinese": "珠穆朗玛峰高8848米。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_515",
+    "german": "Hochzeit",
+    "chinese": "婚礼",
+    "level": "A1",
+    "exampleSentence": "Zu dieser Hochzeit kommen mehr als fünfzig Gäste.",
+    "exampleChinese": "这场婚礼来了五十多位客人。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_516",
+    "german": "holen",
+    "chinese": "取来",
+    "level": "A1",
+    "exampleSentence": "Ich hole zwei Flaschen Wasser aus der Küche.",
+    "exampleChinese": "我从厨房拿两瓶水来。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_517",
+    "german": "Hotel",
+    "chinese": "酒店",
+    "level": "A1",
+    "exampleSentence": "Im Urlaub sind wir in einem Hotel am Meer.",
+    "exampleChinese": "度假时我们住在海边的一家酒店。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_518",
+    "german": "Hund",
+    "chinese": "狗",
+    "level": "A1",
+    "exampleSentence": "Der Hund ist noch jung.",
+    "exampleChinese": "这只狗还小。",
+    "tags": [
+      "environment"
+    ]
+  },
+  {
+    "id": "a1_519",
+    "german": "Information",
+    "chinese": "信息",
+    "level": "A1",
+    "exampleSentence": "Wenn Sie Fragen haben, gehen Sie zur Information.",
+    "exampleChinese": "如果您有问题，请去问讯处。",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_520",
+    "german": "international",
+    "chinese": "国际的",
+    "level": "A1",
+    "exampleSentence": "Unser Deutschkurs ist international.",
+    "exampleChinese": "我们的德语班是国际班。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_521",
+    "german": "Internet",
+    "chinese": "互联网",
+    "level": "A1",
+    "exampleSentence": "Das findest du im Internet.",
+    "exampleChinese": "这个你能在网上找到。",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_522",
+    "german": "Jacke",
+    "chinese": "外套",
+    "level": "A1",
+    "exampleSentence": "Zieh dir eine Jacke an. Es ist kalt.",
+    "exampleChinese": "穿上外套，天冷。",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_523",
+    "german": "Job",
+    "chinese": "工作（活儿）",
+    "level": "A1",
+    "exampleSentence": "Jenny hat einen neuen Job bei der Post.",
+    "exampleChinese": "珍妮在邮局有了份新工作。",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "id": "a1_524",
+    "german": "Jugendliche",
+    "chinese": "青少年",
+    "level": "A1",
+    "exampleSentence": "Viele Jugendliche kaufen gern ein.",
+    "exampleChinese": "很多青少年喜欢购物。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "a1_525",
+    "german": "Junge",
+    "chinese": "男孩",
+    "level": "A1",
+    "exampleSentence": "Ich habe zwei Kinder: einen Jungen und ein Mädchen.",
+    "exampleChinese": "我有两个孩子：一个男孩一个女孩。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_526",
+    "german": "kaputt",
+    "chinese": "坏了的",
+    "level": "A1",
+    "exampleSentence": "Das Glas geht sehr leicht kaputt.",
+    "exampleChinese": "这个玻璃杯很容易碎。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_527",
+    "german": "Karte",
+    "chinese": "卡片；牌；票",
+    "level": "A1",
+    "exampleSentence": "Wollen wir Karten spielen?",
+    "exampleChinese": "我们打牌吧？",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_528",
+    "german": "Kartoffel",
+    "chinese": "土豆",
+    "level": "A1",
+    "exampleSentence": "Für Pommes frites braucht man Kartoffeln.",
+    "exampleChinese": "做薯条需要土豆。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_529",
+    "german": "Kasse",
+    "chinese": "收银台",
+    "level": "A1",
+    "exampleSentence": "Zahlen Sie bitte an der Kasse.",
+    "exampleChinese": "请到收银台付款。",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_530",
+    "german": "kein",
+    "chinese": "没有；一个也不",
+    "level": "A1",
+    "exampleSentence": "Es gibt keine Eintrittskarten mehr.",
+    "exampleChinese": "没有门票了。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_531",
+    "german": "kennen",
+    "chinese": "认识",
+    "level": "A1",
+    "exampleSentence": "Kennen Sie diese Frau?",
+    "exampleChinese": "您认识这位女士吗？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_532",
+    "german": "Kindergarten",
+    "chinese": "幼儿园",
+    "level": "A1",
+    "exampleSentence": "Die kleine Laura geht schon in den Kindergarten.",
+    "exampleChinese": "小劳拉已经上幼儿园了。",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_533",
+    "german": "Kino",
+    "chinese": "电影院",
+    "level": "A1",
+    "exampleSentence": "Wir sehen heute Abend im Kino einen schönen Film.",
+    "exampleChinese": "今晚我们在电影院看一部好电影。",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_534",
+    "german": "Kiosk",
+    "chinese": "报刊亭",
+    "level": "A1",
+    "exampleSentence": "Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen.",
+    "exampleChinese": "在报刊亭您能买到饮料、香烟和报纸。",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_535",
+    "german": "klar",
+    "chinese": "清楚的；当然",
+    "level": "A1",
+    "exampleSentence": "Kommst du mit? – Klar!",
+    "exampleChinese": "你一起来吗？——当然！",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_536",
+    "german": "Klasse",
+    "chinese": "班级；等级",
+    "level": "A1",
+    "exampleSentence": "In unserer Klasse sind fünfundzwanzig Schüler.",
+    "exampleChinese": "我们班有二十五个学生。",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_537",
+    "german": "Kleidung",
+    "chinese": "衣服",
+    "level": "A1",
+    "exampleSentence": "Wo finde ich Kleidung?",
+    "exampleChinese": "衣服在哪个区？",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_538",
+    "german": "kochen",
+    "chinese": "做饭；煮",
+    "level": "A1",
+    "exampleSentence": "Herr Georgi kann gut kochen.",
+    "exampleChinese": "格奥尔基先生很会做饭。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_539",
+    "german": "Koffer",
+    "chinese": "行李箱",
+    "level": "A1",
+    "exampleSentence": "Ist das Ihr Koffer?",
+    "exampleChinese": "这是您的行李箱吗？",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_540",
+    "german": "Kollege",
+    "chinese": "同事",
+    "level": "A1",
+    "exampleSentence": "Wie heißt die neue Kollegin?",
+    "exampleChinese": "那位新女同事叫什么名字？",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "id": "a1_541",
+    "german": "Konto",
+    "chinese": "账户",
+    "level": "A1",
+    "exampleSentence": "Das Geld überweisen wir auf Ihr Konto.",
+    "exampleChinese": "我们把钱汇到您的账户上。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_542",
+    "german": "kosten",
+    "chinese": "花费",
+    "level": "A1",
+    "exampleSentence": "Wie viel kostet das?",
+    "exampleChinese": "这个多少钱？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_543",
+    "german": "kriegen",
+    "chinese": "得到（口语）",
+    "level": "A1",
+    "exampleSentence": "Ich kriege 15 Euro in der Stunde für meine Arbeit.",
+    "exampleChinese": "我工作每小时挣15欧元。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_544",
+    "german": "Kugelschreiber",
+    "chinese": "圆珠笔",
+    "level": "A1",
+    "exampleSentence": "Hast du einen Kugelschreiber für mich?",
+    "exampleChinese": "你有圆珠笔借我用吗？",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_545",
+    "german": "Kühlschrank",
+    "chinese": "冰箱",
+    "level": "A1",
+    "exampleSentence": "Haben wir noch Milch? – Ja, im Kühlschrank.",
+    "exampleChinese": "我们还有牛奶吗？——有，在冰箱里。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_546",
+    "german": "kulturell",
+    "chinese": "文化的",
+    "level": "A1",
+    "exampleSentence": "Ich bin kulturell interessiert und gehe oft ins Museum.",
+    "exampleChinese": "我对文化感兴趣，常去博物馆。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_547",
+    "german": "sich kümmern",
+    "chinese": "照顾；操心",
+    "level": "A1",
+    "exampleSentence": "Jede Mutter kümmert sich um ihre kleinen Kinder.",
+    "exampleChinese": "每位母亲都照顾她的孩子。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_548",
+    "german": "Kunde",
+    "chinese": "顾客",
+    "level": "A1",
+    "exampleSentence": "Einen Moment, bitte. Ich habe eine Kundin.",
+    "exampleChinese": "请稍等，我这儿有位顾客。",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_549",
+    "german": "Kurs",
+    "chinese": "课程",
+    "level": "A1",
+    "exampleSentence": "Der Deutschkurs geht bis zum Sommer.",
+    "exampleChinese": "这门德语课上到夏天。",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_550",
+    "german": "kurz",
+    "chinese": "短的",
+    "level": "A1",
+    "exampleSentence": "Ricardo hat kurzes Haar.",
+    "exampleChinese": "里卡多留着短发。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_551",
+    "german": "lachen",
+    "chinese": "笑",
+    "level": "A1",
+    "exampleSentence": "Die Kinder lachen viel.",
+    "exampleChinese": "孩子们笑个不停。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_552",
+    "german": "lang",
+    "chinese": "长的",
+    "level": "A1",
+    "exampleSentence": "Die Jeans ist zu lang.",
+    "exampleChinese": "这条牛仔裤太长了。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_553",
+    "german": "lange",
+    "chinese": "长时间地",
+    "level": "A1",
+    "exampleSentence": "Wie lange fährt der Zug von Hamburg nach Berlin?",
+    "exampleChinese": "火车从汉堡到柏林要多久？",
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "a1_554",
+    "german": "laufen",
+    "chinese": "跑；走",
+    "level": "A1",
+    "exampleSentence": "Ich möchte nicht Auto fahren, ich möchte laufen.",
+    "exampleChinese": "我不想开车，我想走路。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_555",
+    "german": "laut",
+    "chinese": "大声的；吵的",
+    "level": "A1",
+    "exampleSentence": "Nicht so laut! Das Baby schläft.",
+    "exampleChinese": "别那么大声！宝宝在睡觉。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_556",
+    "german": "leben",
+    "chinese": "生活",
+    "level": "A1",
+    "exampleSentence": "Sie lebt bei ihrer Schwester.",
+    "exampleChinese": "她和她姐姐住在一起。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_557",
+    "german": "ledig",
+    "chinese": "单身的",
+    "level": "A1",
+    "exampleSentence": "Sind Sie verheiratet? – Nein, ledig.",
+    "exampleChinese": "您结婚了吗？——没有，单身。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_558",
+    "german": "legen",
+    "chinese": "放（平放）",
+    "level": "A1",
+    "exampleSentence": "Legen Sie das Buch auf den Tisch.",
+    "exampleChinese": "请把书放在桌子上。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_559",
+    "german": "Lehrer",
+    "chinese": "老师",
+    "level": "A1",
+    "exampleSentence": "Unsere Deutschlehrerin heißt Frau Müller.",
+    "exampleChinese": "我们的德语老师叫米勒女士。",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_560",
+    "german": "leicht",
+    "chinese": "轻的；容易的",
+    "level": "A1",
+    "exampleSentence": "Der Koffer ist leicht.",
+    "exampleChinese": "这个行李箱很轻。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_561",
+    "german": "leider",
+    "chinese": "可惜",
+    "level": "A1",
+    "exampleSentence": "Leider kann ich nicht kommen.",
+    "exampleChinese": "可惜我不能来。",
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "a1_562",
+    "german": "leise",
+    "chinese": "小声的；轻的",
+    "level": "A1",
+    "exampleSentence": "Seid leise. Die anderen schlafen schon.",
+    "exampleChinese": "小声点，其他人已经睡了。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_563",
+    "german": "letzte",
+    "chinese": "最后的；上一个",
+    "level": "A1",
+    "exampleSentence": "Morgen ist der letzte Kurstag.",
+    "exampleChinese": "明天是最后一天课。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_564",
+    "german": "Leute",
+    "chinese": "人们",
+    "level": "A1",
+    "exampleSentence": "In der Disco sind viele Leute.",
+    "exampleChinese": "迪厅里有很多人。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "a1_565",
+    "german": "Licht",
+    "chinese": "灯；光",
+    "level": "A1",
+    "exampleSentence": "Wo macht man hier das Licht an?",
+    "exampleChinese": "这里在哪儿开灯？",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_566",
+    "german": "lieb",
+    "chinese": "亲爱的",
+    "level": "A1",
+    "exampleSentence": "Liebe Grüße aus Berlin!",
+    "exampleChinese": "来自柏林的亲切问候！",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_567",
+    "german": "Lied",
+    "chinese": "歌曲",
+    "level": "A1",
+    "exampleSentence": "Welches ist dein Lieblingslied?",
+    "exampleChinese": "你最喜欢哪首歌？",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_568",
+    "german": "liegen",
+    "chinese": "躺；位于",
+    "level": "A1",
+    "exampleSentence": "Frankfurt liegt am Main.",
+    "exampleChinese": "法兰克福位于美因河畔。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_569",
+    "german": "Lkw",
+    "chinese": "卡车",
+    "level": "A1",
+    "exampleSentence": "Dieser Lkw ist sehr groß.",
+    "exampleChinese": "这辆卡车非常大。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_570",
+    "german": "Lokal",
+    "chinese": "餐馆；小饭店",
+    "level": "A1",
+    "exampleSentence": "In unserer Straße gibt es ein neues Lokal.",
+    "exampleChinese": "我们街上开了家新餐馆。",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_571",
+    "german": "Lösung",
+    "chinese": "解决办法；答案",
+    "level": "A1",
+    "exampleSentence": "Die Lösung ist ganz einfach.",
+    "exampleChinese": "答案很简单。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_572",
+    "german": "lustig",
+    "chinese": "有趣的；好笑的",
+    "level": "A1",
+    "exampleSentence": "Frau Mertens ist lustig. Sie lacht immer.",
+    "exampleChinese": "默滕斯女士很有趣，总是笑。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_573",
+    "german": "Mädchen",
+    "chinese": "女孩",
+    "level": "A1",
+    "exampleSentence": "Familie Kurz bekommt ein Baby. Junge oder Mädchen?",
+    "exampleChinese": "库尔茨一家要有孩子了。男孩还是女孩？",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_574",
+    "german": "man",
+    "chinese": "人们（泛指）",
+    "level": "A1",
+    "exampleSentence": "Hier darf man nicht rauchen.",
+    "exampleChinese": "这里不许抽烟。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "a1_575",
+    "german": "Maschine",
+    "chinese": "机器",
+    "level": "A1",
+    "exampleSentence": "Die Waschmaschine ist günstig.",
+    "exampleChinese": "这台洗衣机很便宜。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_576",
+    "german": "Meer",
+    "chinese": "大海",
+    "level": "A1",
+    "exampleSentence": "Wir machen Urlaub am Meer.",
+    "exampleChinese": "我们去海边度假。",
+    "tags": [
+      "environment"
+    ]
+  },
+  {
+    "id": "a1_577",
+    "german": "mehr",
+    "chinese": "更多",
+    "level": "A1",
+    "exampleSentence": "Dieses Auto kostet 1000 Euro mehr als das andere.",
+    "exampleChinese": "这辆车比那辆贵1000欧元。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_578",
+    "german": "mein",
+    "chinese": "我的",
+    "level": "A1",
+    "exampleSentence": "Mein Vater ist Arzt.",
+    "exampleChinese": "我父亲是医生。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "a1_579",
+    "german": "meistens",
+    "chinese": "大多；通常",
+    "level": "A1",
+    "exampleSentence": "Am Wochenende bleibe ich meistens zu Hause.",
+    "exampleChinese": "周末我大多待在家里。",
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "a1_580",
+    "german": "Mensch",
+    "chinese": "人",
+    "level": "A1",
+    "exampleSentence": "Die Menschen sind hier anders als bei uns.",
+    "exampleChinese": "这里的人和我们那儿不一样。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "a1_581",
+    "german": "mieten",
+    "chinese": "租",
+    "level": "A1",
+    "exampleSentence": "Ich möchte ein Auto mieten.",
+    "exampleChinese": "我想租一辆车。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_582",
+    "german": "mitbringen",
+    "chinese": "带来",
+    "level": "A1",
+    "exampleSentence": "Ich gehe einkaufen. Soll ich dir was mitbringen?",
+    "exampleChinese": "我去购物，要给你带点什么吗？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_583",
+    "german": "mitkommen",
+    "chinese": "一起来",
+    "level": "A1",
+    "exampleSentence": "Ich gehe ins Kino. Kommst du mit?",
+    "exampleChinese": "我去看电影，你一起来吗？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_584",
+    "german": "mitmachen",
+    "chinese": "参加",
+    "level": "A1",
+    "exampleSentence": "Warum macht ihr nicht mit?",
+    "exampleChinese": "你们为什么不参加？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_585",
+    "german": "mitnehmen",
+    "chinese": "带走",
+    "level": "A1",
+    "exampleSentence": "Nehmen wir meine Schwester ins Kino mit?",
+    "exampleChinese": "我们带我妹妹一起去看电影吗？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_586",
+    "german": "Mitte",
+    "chinese": "中间",
+    "level": "A1",
+    "exampleSentence": "Der Lehrer steht in der Mitte des Klassenzimmers.",
+    "exampleChinese": "老师站在教室中间。",
+    "tags": [
+      "direction"
+    ]
+  },
+  {
+    "id": "a1_587",
+    "german": "Möbel",
+    "chinese": "家具",
+    "level": "A1",
+    "exampleSentence": "Sind die Möbel neu?",
+    "exampleChinese": "这些家具是新的吗？",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_588",
+    "german": "möchten",
+    "chinese": "想要",
+    "level": "A1",
+    "exampleSentence": "Was möchten Sie trinken?",
+    "exampleChinese": "您想喝点什么？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_589",
+    "german": "möglich",
+    "chinese": "可能的",
+    "level": "A1",
+    "exampleSentence": "Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich.",
+    "exampleChinese": "用这张票9点起才能乘车。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_590",
+    "german": "Moment",
+    "chinese": "时刻；一会儿",
+    "level": "A1",
+    "exampleSentence": "Einen Moment, bitte.",
+    "exampleChinese": "请稍等一下。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_591",
+    "german": "Mund",
+    "chinese": "嘴",
+    "level": "A1",
+    "exampleSentence": "Öffnen Sie den Mund.",
+    "exampleChinese": "请张开嘴。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a1_592",
+    "german": "nächste",
+    "chinese": "下一个",
+    "level": "A1",
+    "exampleSentence": "Sehen wir uns nächste Woche?",
+    "exampleChinese": "我们下周见吗？",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_593",
+    "german": "nichts",
+    "chinese": "什么都不",
+    "level": "A1",
+    "exampleSentence": "Das macht nichts.",
+    "exampleChinese": "没关系。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_594",
+    "german": "normal",
+    "chinese": "正常的",
+    "level": "A1",
+    "exampleSentence": "Sein Gewicht ist normal.",
+    "exampleChinese": "他的体重正常。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_595",
+    "german": "Nummer",
+    "chinese": "号码",
+    "level": "A1",
+    "exampleSentence": "Sie haben Zimmer Nummer zwölf.",
+    "exampleChinese": "您住12号房间。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_596",
+    "german": "oben",
+    "chinese": "上面",
+    "level": "A1",
+    "exampleSentence": "Ich wohne oben.",
+    "exampleChinese": "我住在楼上。",
+    "tags": [
+      "direction"
+    ]
+  },
+  {
+    "id": "a1_597",
+    "german": "oder",
+    "chinese": "或者",
+    "level": "A1",
+    "exampleSentence": "Wann können Sie kommen – heute oder morgen?",
+    "exampleChinese": "您什么时候能来——今天还是明天？",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_598",
+    "german": "öffnen",
+    "chinese": "打开",
+    "level": "A1",
+    "exampleSentence": "Ich öffne die Tür.",
+    "exampleChinese": "我开门。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_599",
+    "german": "Öl",
+    "chinese": "油",
+    "level": "A1",
+    "exampleSentence": "Den Salat machen wir ohne Öl.",
+    "exampleChinese": "这沙拉我们不放油做。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_600",
+    "german": "Oma",
+    "chinese": "奶奶；外婆",
+    "level": "A1",
+    "exampleSentence": "Meine Oma wohnt in der Nähe.",
+    "exampleChinese": "我奶奶住在附近。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_601",
+    "german": "Opa",
+    "chinese": "爷爷；外公",
+    "level": "A1",
+    "exampleSentence": "Mein Opa heißt Hans.",
+    "exampleChinese": "我爷爷叫汉斯。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_602",
+    "german": "Ordnung",
+    "chinese": "秩序；规矩",
+    "level": "A1",
+    "exampleSentence": "Das ist in Ordnung.",
+    "exampleChinese": "这没问题。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_603",
+    "german": "Ort",
+    "chinese": "地方；地点",
+    "level": "A1",
+    "exampleSentence": "Der Ort liegt am Meer.",
+    "exampleChinese": "这个地方在海边。",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_604",
+    "german": "Papier",
+    "chinese": "纸",
+    "level": "A1",
+    "exampleSentence": "Hier sind Papier und Bleistift.",
+    "exampleChinese": "这里有纸和铅笔。",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_605",
+    "german": "Partner",
+    "chinese": "伴侣；搭档",
+    "level": "A1",
+    "exampleSentence": "Mein Partner heißt Tom.",
+    "exampleChinese": "我的伴侣叫汤姆。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "a1_606",
+    "german": "Partnerin",
+    "chinese": "女伴侣；女搭档",
+    "level": "A1",
+    "exampleSentence": "Sie ist meine Partnerin.",
+    "exampleChinese": "她是我的伴侣。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "a1_607",
+    "german": "Party",
+    "chinese": "派对",
+    "level": "A1",
+    "exampleSentence": "Heute Abend machen wir eine Party.",
+    "exampleChinese": "今晚我们开派对。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_608",
+    "german": "Pass",
+    "chinese": "护照",
+    "level": "A1",
+    "exampleSentence": "Im Hotel brauchst du deinen Pass.",
+    "exampleChinese": "在酒店你需要你的护照。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_609",
+    "german": "Pause",
+    "chinese": "休息；课间",
+    "level": "A1",
+    "exampleSentence": "Von 12.00 bis 12.30 Uhr haben wir Mittagspause.",
+    "exampleChinese": "12点到12点半我们午休。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_610",
+    "german": "Plan",
+    "chinese": "计划；地图",
+    "level": "A1",
+    "exampleSentence": "Ich kaufe mir einen Stadtplan.",
+    "exampleChinese": "我给自己买张城市地图。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_611",
+    "german": "Polizei",
+    "chinese": "警察",
+    "level": "A1",
+    "exampleSentence": "Holen Sie die Polizei!",
+    "exampleChinese": "快叫警察！",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_612",
+    "german": "Pommes",
+    "chinese": "薯条",
+    "level": "A1",
+    "exampleSentence": "Die Kinder essen Hähnchen mit Pommes frites.",
+    "exampleChinese": "孩子们吃烤鸡配薯条。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_613",
+    "german": "Post",
+    "chinese": "邮局；邮件",
+    "level": "A1",
+    "exampleSentence": "Wo ist die Post, bitte?",
+    "exampleChinese": "请问邮局在哪儿？",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_614",
+    "german": "Postleitzahl",
+    "chinese": "邮政编码",
+    "level": "A1",
+    "exampleSentence": "Wie ist Ihre Postleitzahl?",
+    "exampleChinese": "您的邮编是多少？",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_615",
+    "german": "Praktikum",
+    "chinese": "实习",
+    "level": "A1",
+    "exampleSentence": "Ich mache ein Praktikum bei Siemens.",
+    "exampleChinese": "我在西门子实习。",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "id": "a1_616",
+    "german": "Praxis",
+    "chinese": "诊所",
+    "level": "A1",
+    "exampleSentence": "Die Praxis ist ab acht Uhr geöffnet.",
+    "exampleChinese": "诊所八点起开门。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a1_617",
+    "german": "Problem",
+    "chinese": "问题",
+    "level": "A1",
+    "exampleSentence": "Mein Problem ist die Sprache.",
+    "exampleChinese": "我的问题是语言。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_618",
+    "german": "Prospekt",
+    "chinese": "宣传册",
+    "level": "A1",
+    "exampleSentence": "Bitte schicken Sie mir einen Prospekt von Ihrem Hotel.",
+    "exampleChinese": "请给我寄一份您酒店的宣传册。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_619",
+    "german": "Prüfung",
+    "chinese": "考试",
+    "level": "A1",
+    "exampleSentence": "Die Prüfung ist am Montag um 8.00 Uhr.",
+    "exampleChinese": "考试在周一早上8点。",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_620",
+    "german": "pünktlich",
+    "chinese": "准时的",
+    "level": "A1",
+    "exampleSentence": "Der Bus fährt pünktlich um acht Uhr.",
+    "exampleChinese": "公交车准时八点开。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_621",
+    "german": "Rad fahren",
+    "chinese": "骑自行车",
+    "level": "A1",
+    "exampleSentence": "Das Kind kann schon Rad fahren.",
+    "exampleChinese": "这孩子已经会骑自行车了。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_622",
+    "german": "rauchen",
+    "chinese": "抽烟",
+    "level": "A1",
+    "exampleSentence": "Ich rauche nicht.",
+    "exampleChinese": "我不抽烟。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_623",
+    "german": "Raum",
+    "chinese": "房间；空间",
+    "level": "A1",
+    "exampleSentence": "Der Unterricht ist in Raum 332.",
+    "exampleChinese": "课在332房间。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_624",
+    "german": "Rechnung",
+    "chinese": "账单",
+    "level": "A1",
+    "exampleSentence": "Die Rechnung, bitte.",
+    "exampleChinese": "请结账。",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_625",
+    "german": "regnen",
+    "chinese": "下雨",
+    "level": "A1",
+    "exampleSentence": "Heute regnet es.",
+    "exampleChinese": "今天下雨。",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "a1_626",
+    "german": "reisen",
+    "chinese": "旅行",
+    "level": "A1",
+    "exampleSentence": "Ich reise gern.",
+    "exampleChinese": "我喜欢旅行。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_627",
+    "german": "reparieren",
+    "chinese": "修理",
+    "level": "A1",
+    "exampleSentence": "Er hat das Fahrrad repariert.",
+    "exampleChinese": "他修好了自行车。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_628",
+    "german": "Rezeption",
+    "chinese": "前台",
+    "level": "A1",
+    "exampleSentence": "Fragen Sie bitte im Hotel an der Rezeption.",
+    "exampleChinese": "请在酒店前台询问。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_629",
+    "german": "riechen",
+    "chinese": "闻；有气味",
+    "level": "A1",
+    "exampleSentence": "Dieser Wein riecht gut.",
+    "exampleChinese": "这酒闻起来不错。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_630",
+    "german": "ruhig",
+    "chinese": "安静的",
+    "level": "A1",
+    "exampleSentence": "Ich möchte ein ruhiges Zimmer.",
+    "exampleChinese": "我想要一个安静的房间。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_631",
+    "german": "sagen",
+    "chinese": "说",
+    "level": "A1",
+    "exampleSentence": "Sag mal, wie geht es dir denn?",
+    "exampleChinese": "说说看，你最近怎么样？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_632",
+    "german": "Salat",
+    "chinese": "沙拉；色拉",
+    "level": "A1",
+    "exampleSentence": "Wie schmeckt dir der Salat?",
+    "exampleChinese": "你觉得这沙拉味道怎么样？",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_633",
+    "german": "Satz",
+    "chinese": "句子",
+    "level": "A1",
+    "exampleSentence": "Dieser Satz ist sehr einfach.",
+    "exampleChinese": "这个句子很简单。",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_634",
+    "german": "S-Bahn",
+    "chinese": "城铁；快铁",
+    "level": "A1",
+    "exampleSentence": "Ich nehme lieber die S-Bahn.",
+    "exampleChinese": "我更愿意坐城铁。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_635",
+    "german": "Schalter",
+    "chinese": "窗口；柜台",
+    "level": "A1",
+    "exampleSentence": "Gehen Sie bitte zum Schalter drei!",
+    "exampleChinese": "请到三号窗口！",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_636",
+    "german": "scheinen",
+    "chinese": "照耀；好像",
+    "level": "A1",
+    "exampleSentence": "Die Sonne scheint.",
+    "exampleChinese": "阳光普照。",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "a1_637",
+    "german": "schicken",
+    "chinese": "寄；发送",
+    "level": "A1",
+    "exampleSentence": "Bitte schicken Sie mir eine E-Mail.",
+    "exampleChinese": "请给我发封邮件。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_638",
+    "german": "Schild",
+    "chinese": "牌子；标志",
+    "level": "A1",
+    "exampleSentence": "Haben Sie nicht das Schild gesehen?",
+    "exampleChinese": "您没看到那块牌子吗？",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "id": "a1_639",
+    "german": "Schinken",
+    "chinese": "火腿",
+    "level": "A1",
+    "exampleSentence": "Ich möchte gern ein Schinkenbrot.",
+    "exampleChinese": "我想要一个火腿面包。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_640",
+    "german": "schlafen",
+    "chinese": "睡觉",
+    "level": "A1",
+    "exampleSentence": "Ich schlafe meistens acht Stunden.",
+    "exampleChinese": "我通常睡八个小时。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_641",
+    "german": "schließen",
+    "chinese": "关闭",
+    "level": "A1",
+    "exampleSentence": "Bitte schließen Sie die Tür.",
+    "exampleChinese": "请关上门。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_642",
+    "german": "Schluss",
+    "chinese": "结束；结尾",
+    "level": "A1",
+    "exampleSentence": "Ich muss jetzt Schluss machen.",
+    "exampleChinese": "我现在得挂电话了。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_643",
+    "german": "Schlüssel",
+    "chinese": "钥匙",
+    "level": "A1",
+    "exampleSentence": "Ich gebe Ihnen noch den Zimmerschlüssel.",
+    "exampleChinese": "我再给您房间钥匙。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_644",
+    "german": "schmecken",
+    "chinese": "尝起来（好吃）",
+    "level": "A1",
+    "exampleSentence": "Schmeckt das gut?",
+    "exampleChinese": "这个好吃吗？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_645",
+    "german": "Schrank",
+    "chinese": "柜子",
+    "level": "A1",
+    "exampleSentence": "Die Gläser stehen im Schrank.",
+    "exampleChinese": "杯子放在柜子里。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_646",
+    "german": "Schuh",
+    "chinese": "鞋",
+    "level": "A1",
+    "exampleSentence": "Zieh die Schuhe aus!",
+    "exampleChinese": "把鞋脱了！",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_647",
+    "german": "Schule",
+    "chinese": "学校",
+    "level": "A1",
+    "exampleSentence": "Meine Tochter geht schon in die Schule.",
+    "exampleChinese": "我女儿已经上学了。",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_648",
+    "german": "schwimmen",
+    "chinese": "游泳",
+    "level": "A1",
+    "exampleSentence": "Ich schwimme jeden Tag einen Kilometer.",
+    "exampleChinese": "我每天游一公里。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_649",
+    "german": "See",
+    "chinese": "湖",
+    "level": "A1",
+    "exampleSentence": "Komm, wir fahren zum Starnberger See.",
+    "exampleChinese": "来吧，我们去施塔恩贝格湖。",
+    "tags": [
+      "environment"
+    ]
+  },
+  {
+    "id": "a1_650",
+    "german": "Sehenswürdigkeit",
+    "chinese": "名胜；景点",
+    "level": "A1",
+    "exampleSentence": "Welche Sehenswürdigkeiten gibt es in Frankfurt?",
+    "exampleChinese": "法兰克福有哪些景点？",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_651",
+    "german": "seit",
+    "chinese": "自从",
+    "level": "A1",
+    "exampleSentence": "Ich wohne seit drei Jahren in Köln.",
+    "exampleChinese": "我在科隆住了三年了。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_652",
+    "german": "selbstständig",
+    "chinese": "独立的；个体经营的",
+    "level": "A1",
+    "exampleSentence": "Er ist selbstständig.",
+    "exampleChinese": "他是自雇者。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_653",
+    "german": "sitzen",
+    "chinese": "坐",
+    "level": "A1",
+    "exampleSentence": "Wo sitzen Sie?",
+    "exampleChinese": "您坐在哪儿？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_654",
+    "german": "sofort",
+    "chinese": "立刻",
+    "level": "A1",
+    "exampleSentence": "Bitte antworten Sie sofort.",
+    "exampleChinese": "请立刻回复。",
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "a1_655",
+    "german": "Speisekarte",
+    "chinese": "菜单",
+    "level": "A1",
+    "exampleSentence": "Bringen Sie mir die Speisekarte, bitte.",
+    "exampleChinese": "请给我菜单。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_656",
+    "german": "spielen",
+    "chinese": "玩；演奏",
+    "level": "A1",
+    "exampleSentence": "Die Kinder spielen draußen.",
+    "exampleChinese": "孩子们在外面玩。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_657",
+    "german": "Sport",
+    "chinese": "运动",
+    "level": "A1",
+    "exampleSentence": "Ich mache viel Sport.",
+    "exampleChinese": "我经常运动。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_658",
+    "german": "stehen",
+    "chinese": "站；写着",
+    "level": "A1",
+    "exampleSentence": "Der Bus steht schon an der Haltestelle.",
+    "exampleChinese": "公交车已经停在车站了。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_659",
+    "german": "Stelle",
+    "chinese": "位置；职位",
+    "level": "A1",
+    "exampleSentence": "Ich habe eine neue Stelle.",
+    "exampleChinese": "我有了一份新工作。",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "id": "a1_660",
+    "german": "stellen",
+    "chinese": "放（立放）",
+    "level": "A1",
+    "exampleSentence": "Stell die Tasche rechts in die Ecke!",
+    "exampleChinese": "把包放在右边角落里！",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_661",
+    "german": "Stock",
+    "chinese": "楼层",
+    "level": "A1",
+    "exampleSentence": "Unsere Wohnung liegt im ersten Stock.",
+    "exampleChinese": "我们的住所在二楼。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_662",
+    "german": "Straßenbahn",
+    "chinese": "有轨电车",
+    "level": "A1",
+    "exampleSentence": "Wo fährt die Straßenbahn ab?",
+    "exampleChinese": "有轨电车从哪儿发车？",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_663",
+    "german": "studieren",
+    "chinese": "上大学",
+    "level": "A1",
+    "exampleSentence": "Ich studiere in Mainz.",
+    "exampleChinese": "我在美因茨上大学。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_664",
+    "german": "Studium",
+    "chinese": "大学学业",
+    "level": "A1",
+    "exampleSentence": "Das Studium beginnt im Oktober.",
+    "exampleChinese": "大学十月开学。",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_665",
+    "german": "Stunde",
+    "chinese": "小时；课时",
+    "level": "A1",
+    "exampleSentence": "Ich bin in einer Stunde zurück.",
+    "exampleChinese": "我一小时后回来。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "a1_666",
+    "german": "suchen",
+    "chinese": "找",
+    "level": "A1",
+    "exampleSentence": "Suchst du etwas?",
+    "exampleChinese": "你在找什么吗？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_667",
+    "german": "tanzen",
+    "chinese": "跳舞",
+    "level": "A1",
+    "exampleSentence": "Tanzen Sie gern?",
+    "exampleChinese": "您喜欢跳舞吗？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_668",
+    "german": "Tasche",
+    "chinese": "包；口袋",
+    "level": "A1",
+    "exampleSentence": "Ich habe die Schlüssel in der Tasche.",
+    "exampleChinese": "我把钥匙放在包里了。",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_669",
+    "german": "Taxi",
+    "chinese": "出租车",
+    "level": "A1",
+    "exampleSentence": "Es gibt keinen Bus mehr. Er fährt mit dem Taxi.",
+    "exampleChinese": "没有公交车了，他打车。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_670",
+    "german": "Teil",
+    "chinese": "部分",
+    "level": "A1",
+    "exampleSentence": "Lies bitte auch den zweiten Teil.",
+    "exampleChinese": "请也读一下第二部分。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_671",
+    "german": "telefonieren",
+    "chinese": "打电话",
+    "level": "A1",
+    "exampleSentence": "Darf ich mal telefonieren?",
+    "exampleChinese": "我能打个电话吗？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_672",
+    "german": "Termin",
+    "chinese": "预约；约定时间",
+    "level": "A1",
+    "exampleSentence": "Am besten machen wir sofort einen Termin.",
+    "exampleChinese": "我们最好马上约个时间。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_673",
+    "german": "Test",
+    "chinese": "测试",
+    "level": "A1",
+    "exampleSentence": "Der Test war einfach.",
+    "exampleChinese": "这个测试很简单。",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_674",
+    "german": "Text",
+    "chinese": "文本；课文",
+    "level": "A1",
+    "exampleSentence": "Lesen Sie bitte diesen Text.",
+    "exampleChinese": "请读这篇课文。",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_675",
+    "german": "Thema",
+    "chinese": "主题；话题",
+    "level": "A1",
+    "exampleSentence": "Wir sprechen heute über das Thema Essen und Trinken.",
+    "exampleChinese": "今天我们谈“吃和喝”这个话题。",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_676",
+    "german": "Ticket",
+    "chinese": "票",
+    "level": "A1",
+    "exampleSentence": "Wie viel kostet das Ticket?",
+    "exampleChinese": "这张票多少钱？",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_677",
+    "german": "Toilette",
+    "chinese": "厕所",
+    "level": "A1",
+    "exampleSentence": "Wo ist die Toilette, bitte?",
+    "exampleChinese": "请问厕所在哪儿？",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_678",
+    "german": "Tomate",
+    "chinese": "西红柿",
+    "level": "A1",
+    "exampleSentence": "Die Tomate ist noch grün.",
+    "exampleChinese": "这个西红柿还是绿的。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "a1_679",
+    "german": "tot",
+    "chinese": "死的",
+    "level": "A1",
+    "exampleSentence": "Sein Vater ist schon lange tot.",
+    "exampleChinese": "他父亲已经去世很久了。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_680",
+    "german": "treffen",
+    "chinese": "遇见；约见",
+    "level": "A1",
+    "exampleSentence": "Ich treffe in der Stadt einen Kollegen.",
+    "exampleChinese": "我在城里和一位同事见面。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_681",
+    "german": "Treppe",
+    "chinese": "楼梯",
+    "level": "A1",
+    "exampleSentence": "Die Treppe hoch und dann links.",
+    "exampleChinese": "上楼梯然后向左。",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "id": "a1_682",
+    "german": "tun",
+    "chinese": "做",
+    "level": "A1",
+    "exampleSentence": "Ich habe noch etwas zu tun.",
+    "exampleChinese": "我还有点事要做。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_683",
+    "german": "übernachten",
+    "chinese": "过夜；留宿",
+    "level": "A1",
+    "exampleSentence": "Du kannst bei mir übernachten.",
+    "exampleChinese": "你可以在我这儿过夜。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_684",
+    "german": "überweisen",
+    "chinese": "汇款",
+    "level": "A1",
+    "exampleSentence": "Sie können das Geld auch überweisen.",
+    "exampleChinese": "您也可以汇款。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_685",
+    "german": "um",
+    "chinese": "在（几点）；围绕",
+    "level": "A1",
+    "exampleSentence": "Er kommt um sieben Uhr.",
+    "exampleChinese": "他七点来。",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "a1_686",
+    "german": "umziehen",
+    "chinese": "搬家",
+    "level": "A1",
+    "exampleSentence": "Nächsten Monat ziehen wir um.",
+    "exampleChinese": "下个月我们搬家。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_687",
+    "german": "und",
+    "chinese": "和",
+    "level": "A1",
+    "exampleSentence": "Peter und Helmut sind meine Söhne.",
+    "exampleChinese": "彼得和赫尔穆特是我的儿子。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_688",
+    "german": "unser",
+    "chinese": "我们的",
+    "level": "A1",
+    "exampleSentence": "Das ist unsere Lehrerin.",
+    "exampleChinese": "这是我们的女老师。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "a1_689",
+    "german": "unten",
+    "chinese": "下面",
+    "level": "A1",
+    "exampleSentence": "Er wohnt ganz unten im Haus.",
+    "exampleChinese": "他住在楼里最下面。",
+    "tags": [
+      "direction"
+    ]
+  },
+  {
+    "id": "a1_690",
+    "german": "Unterricht",
+    "chinese": "课；教学",
+    "level": "A1",
+    "exampleSentence": "Wir haben Unterricht von 8.00 bis 12.00 Uhr.",
+    "exampleChinese": "我们从8点到12点上课。",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_691",
+    "german": "unterschreiben",
+    "chinese": "签名",
+    "level": "A1",
+    "exampleSentence": "Wo muss ich unterschreiben?",
+    "exampleChinese": "我该在哪儿签名？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_692",
+    "german": "Urlaub",
+    "chinese": "假期；休假",
+    "level": "A1",
+    "exampleSentence": "Ich nehme im September Urlaub.",
+    "exampleChinese": "我九月休假。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_693",
+    "german": "verboten",
+    "chinese": "被禁止的",
+    "level": "A1",
+    "exampleSentence": "Hier ist Rauchen verboten.",
+    "exampleChinese": "这里禁止吸烟。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_694",
+    "german": "verdienen",
+    "chinese": "赚（钱）",
+    "level": "A1",
+    "exampleSentence": "Ich verdiene 1500 Euro im Monat.",
+    "exampleChinese": "我每月挣1500欧元。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_695",
+    "german": "Verein",
+    "chinese": "协会；俱乐部",
+    "level": "A1",
+    "exampleSentence": "Es gibt einen neuen Sportverein in der Stadt.",
+    "exampleChinese": "城里有了一个新的体育俱乐部。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_696",
+    "german": "verheiratet",
+    "chinese": "已婚的",
+    "level": "A1",
+    "exampleSentence": "Ich bin verheiratet und habe drei Kinder.",
+    "exampleChinese": "我已婚，有三个孩子。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_697",
+    "german": "vermieten",
+    "chinese": "出租",
+    "level": "A1",
+    "exampleSentence": "Die Wohnung ist schon vermietet.",
+    "exampleChinese": "这套房子已经租出去了。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_698",
+    "german": "Verwandte",
+    "chinese": "亲戚",
+    "level": "A1",
+    "exampleSentence": "Peter besucht seine Verwandten in Polen.",
+    "exampleChinese": "彼得去波兰看望他的亲戚。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "a1_699",
+    "german": "Vorname",
+    "chinese": "名字（名）",
+    "level": "A1",
+    "exampleSentence": "Ich heiße Müller, mein Vorname ist Eva.",
+    "exampleChinese": "我姓米勒，名叫伊娃。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_700",
+    "german": "Vorsicht",
+    "chinese": "小心；当心",
+    "level": "A1",
+    "exampleSentence": "Vorsicht! Da kommt ein Auto.",
+    "exampleChinese": "当心！来车了。",
+    "tags": [
+      "basic"
+    ]
+  },
+  {
+    "id": "a1_701",
+    "german": "vorstellen",
+    "chinese": "介绍",
+    "level": "A1",
+    "exampleSentence": "Können Sie sich bitte vorstellen?",
+    "exampleChinese": "您能做个自我介绍吗？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_702",
+    "german": "Vorwahl",
+    "chinese": "区号",
+    "level": "A1",
+    "exampleSentence": "Wie ist die Vorwahl von München?",
+    "exampleChinese": "慕尼黑的区号是多少？",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_703",
+    "german": "wandern",
+    "chinese": "徒步；远足",
+    "level": "A1",
+    "exampleSentence": "Wir wandern um den Chiemsee.",
+    "exampleChinese": "我们绕基姆湖徒步。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_704",
+    "german": "warten",
+    "chinese": "等",
+    "level": "A1",
+    "exampleSentence": "Können Sie ein paar Minuten warten?",
+    "exampleChinese": "您能等几分钟吗？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_705",
+    "german": "waschen",
+    "chinese": "洗",
+    "level": "A1",
+    "exampleSentence": "Wo kann ich mir die Hände waschen?",
+    "exampleChinese": "我在哪儿可以洗手？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_706",
+    "german": "weh tun",
+    "chinese": "疼",
+    "level": "A1",
+    "exampleSentence": "Mein Bein tut weh.",
+    "exampleChinese": "我的腿疼。",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "a1_707",
+    "german": "weiblich",
+    "chinese": "女性的",
+    "level": "A1",
+    "exampleSentence": "Kreuzen Sie bitte an: weiblich oder männlich.",
+    "exampleChinese": "请打勾：女性还是男性。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_708",
+    "german": "weit",
+    "chinese": "远的",
+    "level": "A1",
+    "exampleSentence": "Zum Bahnhof ist es nicht weit.",
+    "exampleChinese": "到火车站不远。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_709",
+    "german": "weiter",
+    "chinese": "继续；更远",
+    "level": "A1",
+    "exampleSentence": "Der Bus fährt nicht weiter.",
+    "exampleChinese": "公交车不再往前开了。",
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "a1_710",
+    "german": "Welt",
+    "chinese": "世界",
+    "level": "A1",
+    "exampleSentence": "Es gibt viele Probleme auf der Welt.",
+    "exampleChinese": "世界上有很多问题。",
+    "tags": [
+      "abstract"
+    ]
+  },
+  {
+    "id": "a1_711",
+    "german": "wichtig",
+    "chinese": "重要的",
+    "level": "A1",
+    "exampleSentence": "Dieses Formular ist sehr wichtig.",
+    "exampleChinese": "这张表格非常重要。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_712",
+    "german": "wiederholen",
+    "chinese": "重复",
+    "level": "A1",
+    "exampleSentence": "Können Sie das bitte wiederholen?",
+    "exampleChinese": "您能再说一遍吗？",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "a1_713",
+    "german": "Wiederhören",
+    "chinese": "再见（电话）",
+    "level": "A1",
+    "exampleSentence": "Auf Wiederhören!",
+    "exampleChinese": "再见（电话用语）！",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_714",
+    "german": "Wiedersehen",
+    "chinese": "再见",
+    "level": "A1",
+    "exampleSentence": "Auf Wiedersehen!",
+    "exampleChinese": "再见！",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "a1_715",
+    "german": "willkommen",
+    "chinese": "欢迎",
+    "level": "A1",
+    "exampleSentence": "Herzlich willkommen!",
+    "exampleChinese": "热烈欢迎！",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "a1_716",
+    "german": "woher",
+    "chinese": "从哪儿",
+    "level": "A1",
+    "exampleSentence": "Woher kommen Sie?",
+    "exampleChinese": "您来自哪里？",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "a1_717",
+    "german": "wohin",
+    "chinese": "去哪儿",
+    "level": "A1",
+    "exampleSentence": "Wohin fährt dieser Bus?",
+    "exampleChinese": "这辆公交车开往哪里？",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "a1_718",
+    "german": "Wort",
+    "chinese": "词；单词",
+    "level": "A1",
+    "exampleSentence": "Ich kenne das Wort nicht.",
+    "exampleChinese": "我不认识这个词。",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": "a1_719",
+    "german": "wunderbar",
+    "chinese": "极好的",
+    "level": "A1",
+    "exampleSentence": "Das Essen schmeckt wunderbar.",
+    "exampleChinese": "这饭菜味道好极了。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_720",
+    "german": "zahlen",
+    "chinese": "付款",
+    "level": "A1",
+    "exampleSentence": "Zahlen, bitte!",
+    "exampleChinese": "请结账！",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_721",
+    "german": "Zeitung",
+    "chinese": "报纸",
+    "level": "A1",
+    "exampleSentence": "Ich lese gern Zeitung.",
+    "exampleChinese": "我喜欢看报。",
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "id": "a1_722",
+    "german": "Zigarette",
+    "chinese": "香烟",
+    "level": "A1",
+    "exampleSentence": "Wie teuer sind die Zigaretten?",
+    "exampleChinese": "这些香烟多少钱？",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "id": "a1_723",
+    "german": "Zoll",
+    "chinese": "海关",
+    "level": "A1",
+    "exampleSentence": "Wir müssen noch durch den Zoll.",
+    "exampleChinese": "我们还得过海关。",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "id": "a1_724",
+    "german": "zufrieden",
+    "chinese": "满意的",
+    "level": "A1",
+    "exampleSentence": "Ich bin mit der Wohnung zufrieden.",
+    "exampleChinese": "我对这套房子很满意。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "a1_725",
+    "german": "zurück",
+    "chinese": "回；返回",
+    "level": "A1",
+    "exampleSentence": "Wann kommst du zurück?",
+    "exampleChinese": "你什么时候回来？",
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "a1_726",
+    "german": "zusammen",
+    "chinese": "一起；一共",
+    "level": "A1",
+    "exampleSentence": "Sollen wir zusammen essen gehen?",
+    "exampleChinese": "我们一起去吃饭吗？",
+    "tags": [
+      "adverb"
+    ]
   }
 ]

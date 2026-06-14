@@ -38,7 +38,7 @@ class DatabaseService {
 
     return openDatabase(
       path,
-      version: 4,
+      version: 5,
       onCreate: (db, version) async {
         await _createTables(db);
         await _seedWords(db);
@@ -56,6 +56,11 @@ class DatabaseService {
         }
         if (oldVersion < 4) {
           // 词库迁移到 JSON，清空 words 表并从 JSON 重新导入
+          await db.delete('words');
+          await _seedWords(db);
+        }
+        if (oldVersion < 5) {
+          // A1 词库补全到歌德学院官方词表，清空 words 表并重新导入
           await db.delete('words');
           await _seedWords(db);
         }
