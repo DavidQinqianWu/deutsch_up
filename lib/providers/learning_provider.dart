@@ -39,7 +39,12 @@ class LearningProvider extends ChangeNotifier {
   int get remainingSeconds => max(0, ((_cardTimeoutMs - _elapsedMs) / 1000).ceil());
 
   Future<void> initialize() async {
-    await _tts.initialize();
+    // TTS 在桌面端可能不被支持，给初始化加超时，避免一直卡在加载页
+    try {
+      await _tts.initialize().timeout(const Duration(seconds: 5));
+    } catch (_) {
+      // 初始化失败或超时：忽略语音，继续加载词库
+    }
     await loadWords(level: _selectedLevel);
   }
 
@@ -56,7 +61,8 @@ class LearningProvider extends ChangeNotifier {
 
     notifyListeners();
     _startCardTimer();
-    await _speakCurrent();
+    // 不要 await 语音，否则 TTS 卡住会阻塞整个加载流程
+    unawaited(_speakCurrent());
   }
 
   void setLevel(CEFRLevel? level) {
